@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/feedback_style.css') }}">
+	<link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	<form action="/fb1" method="POST" >
+<div class="background">
+  <div class="container">
+    <div class="screen">
+      <div class="screen-header">
+        <div class="screen-header-left">
+          <div class="screen-header-button close"></div>
+          <div class="screen-header-button maximize"></div>
+          <div class="screen-header-button minimize"></div>
+        </div>
+        <div class="screen-header-right">
+          <div class="screen-header-ellipsis"></div>
+          <div class="screen-header-ellipsis"></div>
+          <div class="screen-header-ellipsis"></div>
+        </div>
+      </div>
+      <div class="screen-body">
+        <div class="screen-body-item left">
+          <div class="app-title">
+            <span>FEEDBACK</span>
+            
+          </div>
+          <div class="app-contact">CONTACT INFO : +91 9110231753</div>
+        </div>
+<div class="screen-body-item">
+          <div class="app-form">
+            <div class="app-form-group">
+              
+             
+              <input type="text" class="app-form-control" placeholder="USERNAME" required name="username" value="{{ val }}"  
+              id="username"  />
+            </div>
+            <div class="app-form-group">
+              <input type="text" class="app-form-control" placeholder="EMAIL" required value="{{ val1 }}" name="em" id="em"  />
+            </div>
+            <div class="app-form-group">
+              <input type="tel" class="app-form-control" placeholder="CONTACT NO" required value="{{ val2 }}" name="ph" id="ph" pattern="[0-9]{10}"  />
+            </div>
+            <div class="app-form-group message">
+              <input type="text" class="app-form-control" placeholder="MESSAGE" required name="msg" id="msg" />
+            </div>
+            <div class="app-form-group buttons">
+              <br>
+              <input type="reset" class="app-form-button" value="CANCEL"/>
+             <!-- <button class="app-form-button" onclick="check()">SEND</button>-->
+             <input type="Submit"  class="app-form-button" value="SEND" onclick="check()"  />
+              </div>
+              </div>
+            </div>
+           
+            
+              <script type="text/javascript">
+               function check()
+                {
+                  var name=document.getElementById('username').value;
+                  var phone= document.getElementById('ph').value;
+                  var email=document.getElementById('em').value;
+                  var message=document.getElementById('msg').value;
+                  if(phone.length<10 || phone.length>10)
+                  {
+                    window.alert('Enter a 10 Digit Phone number!');
+                  }
+                  if(phone.length==10)
+                  {
+                    if(name && phone && email && msg)
+                    {
+                     window.alert('Feedback Sent!');
+                    }
+                    else
+                    {
+                      window.alert('Please Fill the Required Fields');
+                    }
+                  }
+                }
+              </script>
+              <!--<script src="https://www.100forms.com/js/FORMKEY:XQTJ6MYL6AMW/SEND:varunbhatkv2mng@gmail.com" type="text/javascript" class="script_dis"></script>
+              <input type="submit" name="SEND" class="app-form-button">-->
+            
+            
+          
+    
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="offset-sm-1 col-sm-4 right-color">
+
+            </div>
+</form>
+</body>
+</html>

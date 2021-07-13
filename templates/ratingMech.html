@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS only -->
+    <!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/rating_page.css') }}">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+        <h1>JRS<span class="color">.</span></h1>
+        <nav>
+            <ul>
+               
+                <!--<li><a href="#">Portfolio</a></li>-->
+                <!--<li><a href="/contact">Contact</a></li>-->
+                <!--<li><a href="C:/Users/Hp/Desktop/FY/PRoject/py/templates/login.html">Login</a></li>-->
+                <li><a class="login-btn" href="/">Logout</a></li>
+            </ul>
+        </nav>
+    </div>
+    </header>
+
+    <form action="{{ url_for('recommendation3') }}" method="POST" onsubmit="return check_dk();">
+    <div class="rating-page">
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="offset-sm-1 left-sec">
+                    <div class="rate-head">Please rate each language based on <br/>your performance</div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>Ansys</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Ansys" id="p1"  value="0" required/>
+                                <label for="Ansys">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Ansys" id="p2" value="5" required/>
+                                <label for="Ansys">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Ansys" id="p3" value="4" required/>
+                                <label for="Ansys">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Ansys" id="p4" value="3" required/>
+                                <label for="Ansys">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Ansys" id="p5" value="2"required/>
+                                <label for="Ansys">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Ansys" id="p6" value="1" required/>
+                                <label for="Ansys">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>CAD</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="CAD" id="p7"  value="0" required/ >
+                                <label for="CAD">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="CAD" id="p8" value="5" required/> 
+                                <label for="CAD">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="CAD" id="p9"value="4" required/>
+                                 <label for="CAD">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="CAD" id="p10" value="3" required/> 
+                                <label for="CAD">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="CAD" id="p11" value="2" required/> 
+                                <label for="CAD">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="CAD"  id="p12"value="1" required/>
+                                 <label for="CAD">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>Solid Works</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Solid_Works" id="p13" value="0" required/>
+                                <label for="Solid_Works">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_Works" id="p14" value="5" required/>
+                                <label for="Solid_Works">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_Works" id="p15" value="4" required/>
+                                <label for="Solid_Works">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_Works" id="p16" value="3" required/>
+                                <label for="Solid_Works">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_Works" id="p17" value="2" required/>
+                                <label for="Solid_Works">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_Works" id="p18" value="1" required/>
+                                <label for="Solid_Works">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>Engineering Design</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Engineering_design" id="p19"value="0" required/>
+                                <label for="Engineering_design">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Engineering_design" id="p20"value="5" required/>
+                                <label for="Engineering_design">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Engineering_design" id="p21"value="4" required/>
+                                <label for="Engineering_design">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Engineering_design" id="p22"value="3" required/>
+                                <label for="Engineering_design">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Engineering_design" id="p23"value="2" required/>
+                                <label for="Engineering_design">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Engineering_design" id="p24"value="1" required/>
+                                <label for="Engineering_design">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                    <div class="question">Programing Language proficiency Level <span>Solid State Mechanic</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Solid_state_mechanic" id="p25" value="0" required/>
+                                <label for="Solid_state_mechanic">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_state_mechanic" id="p26" value="5" required/>
+                                <label for="Solid_state_mechanic">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_state_mechanic" id="p27" value="4" required/>
+                                <label for="Solid_state_mechanic">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_state_mechanic" id="p28" value="3" required/>
+                                <label for="Solid_state_mechanic">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Solid_state_mechanic" id="p29" value="2" required/>
+                                <label for="Solid_state_mechanic">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio" id="dont-know" name="Solid_state_mechanic" id="p30" value="1" required/>
+                                <label for="Solid_state_mechanic">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit">Submit</button>
+                   
+                </div>    
+            </div>
+            <div class="offset-sm-1 col-sm-4 right-color">
+
+            </div>
+        </div>
+    </div>
+  </form>
+
+  <script type="text/javascript">
+      function check_dk() {
+     if(document.getElementById('p1').checked) {  
+       var f1=document.getElementById('p1').value;
+       }
+       if(document.getElementById('p7').checked) {  
+       var f2=document.getElementById('p7').value;
+       }
+       if(document.getElementById('p13').checked) {  
+       var f3=document.getElementById('p13').value;
+       }
+       if(document.getElementById('p19').checked) {  
+       var f4=document.getElementById('p19').value;
+       }
+       if(document.getElementById('p25').checked) {  
+       var f5=document.getElementById('p25').value;}
+      
+
+     
+       if((f1==0) && (f2==0) && (f3==0) && (f4==0) && (f5==0))
+       {
+        alert('Please Enter Proper Rating!');
+        return false;
+       }
+       else
+       {
+            alert('Success!');
+       }
+
+    }
+
+  </script>
+</body>
+
+</html>

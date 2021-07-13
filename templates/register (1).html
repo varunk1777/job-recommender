@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/new_reg_style.css') }}">
+</head>
+<body>
+
+
+<div class="container-fluid registration">
+  <div class="row">
+      <div class="container col-sm-6 form-side">
+        <form action="/addrec" method="POST" autocomplete="off"  >
+          <div class="reg">
+            <div class="reg-head">Register</div>
+              <div class="container">
+                <p>
+                <label for="pass2"><strong>Name:</strong></label><span style="padding-left:150px; "><input class="text-bx" type="text" name="Name" required id="nm" /></span>
+                </p>
+
+                <p>
+                <label for="pass2"><strong>Email:</strong></label><span style="padding-left:155px; "><input class="text-bx" type="text" name="email" required id="em" /></span>
+                </p>
+
+                <p>
+                <label for="pass2"><strong>Mobile Number:</strong></label><span style="padding-left:75px; "><input class="text-bx" type="text" name="MobileNumber" required id="ph" pattern="[0-9]{10}" /></span>
+                </p>
+
+                <p>
+                <label for="pass2"><strong>Username:</strong></label><span style="padding-left:118px; "><input class="text-bx" type="text" name="Username" required id="un" /></span>
+                </p>
+
+
+               <!--   <input class="text-bx" type="password" placeholder="Enter Password" name="password" required><br />-->
+
+               <label for="pass"><strong>Password:</strong></label><span style="padding-left:127px;"><input class="text-bx" type="password" name="password" id="pass" id="pwd" onkeyup="passwordStrength(this.value)" width="100%" /></span>
+               <br>
+               <br>
+            
+               <!-- <input class="text-bx" type="password" placeholder="Repeat Password" name="password" required><br />-->
+
+                
+                <label style="display: flex;" for="passwordStrength" ><strong>Password strength:</strong> <div id="passwordDescription">Password not entered</div></label>
+                
+                <div id="passwordStrength" class="strength0"></div>
+                <br/>
+                
+                <p>
+                <label for="pass2"><strong>Confirm Password:</strong></label><span style="padding-left:60px; "><input class="text-bx" type="password" name="c_password" id="cpwd" required /></span>
+                </p>
+
+              <!--  <button class="but-on" type="Submit" class="registerbtn" value="SIGNUP" >Register</button><br />-->
+              <input type="Submit" name="Submit" value="Register" class="but-on" class="registerbtn" value="SIGNUP" onclick="check();" />
+
+                <div class="p-txt"><p>Already have an account ?<a href="/userlogin">LOGIN HERE</a></p></div>
+             
+          </div> 
+          <div class="mr-btn"></div>
+        </form>
+      </div>
+    </div>
+      <div class="col-sm-6">
+                <img src={{ user_image1 }} class="reg-png">
+      </div>
+  </div>
+</div>
+
+<div>
+  
+</div>
+<script >
+
+function check() 
+{
+ if((document.getElementById('pwd').value)!=(document.getElementById('cpwd').value))
+ {
+  alert("Password Mismatch");
+ }
+    
+  
+  else{
+    alert("success");
+  }
+}
+
+
+
+function passwordStrength(password)
+{
+        var desc = new Array();
+        desc[0] = "Very Weak";
+        desc[1] = "Weak";
+        desc[2] = "Better";
+        desc[3] = "Good";
+        desc[4] = "Strong";
+        var score   = 0;
+
+        //if password bigger than 10 give 1 point
+
+        if (password.length >2) score++;
+
+        //if password has both lower and uppercase characters give 1 point
+
+        if ( ( password.match(/[a-z]/) ) && ( password.match(/[A-Z]/) ) ) score++;
+
+        //if password has at least one number give 1 point
+
+        if (password.match(/d+/)) score+=1;
+
+        //if password has at least one special caracther give 1 point
+
+        if ( password.match(/.[!,@,#,$,%,^,&,*,?,_,~,-,(,)]/) ) score+=2;
+
+         document.getElementById("passwordDescription").innerHTML = desc[score];
+         document.getElementById("passwordStrength").className = "strength" + score;
+}
+</script>
+</body>
+</html>

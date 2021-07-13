@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS only -->
+    <!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/rating_page.css') }}">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+        <div class="container">
+        <h1>JRS<span class="color">.</span></h1>
+        <nav>
+            <ul>
+               
+                <!--<li><a href="#">Portfolio</a></li>-->
+                <!--<li><a href="/contact">Contact</a></li>-->
+                <!--<li><a href="C:/Users/Hp/Desktop/FY/PRoject/py/templates/login.html">Login</a></li>-->
+                <li><a class="login-btn" href="/">Logout</a></li>
+            </ul>
+        </nav>
+    </div>
+    </header>
+
+    <form action="{{ url_for('recommendation1') }}" method="POST"  onsubmit="return check_dk();">
+    <div class="rating-page">
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="offset-sm-1 left-sec">
+                    <div class="rate-head">Please rate each language based on <br/>your performance</div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>Python</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Python"  value="0" id="p1" required/>
+                                <label for="Python">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python"  value="5" id="p2" required/>
+                                <label for="Python">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python"  value="4" id="p3" required/>
+                                <label for="Python">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python"   value="3" id="p4" required/>
+                                <label for="Python">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python"  value="2" id="p5" required/>
+                                <label for="Python">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python"  value="1" id="p6" required/>
+                                <label for="Python">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>AWS</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="AWS"  value="0" id="p7" required/>
+                                <label for="AWS">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="AWS"   value="5" id="p8" required/>
+                                <label for="AWS">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="AWS"  value="4" id="p9" required/>
+                                <label for="AWS">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="AWS"   value="3" id="p10" required/>
+                                <label for="AWS">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="AWS"  value="2" id="p11" required/>
+                                <label for="AWS">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="AWS"  value="1" id="p12" required/>
+                                <label for="AWS">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>SQL</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="SQL"  value="0" id="p13" required/>
+                                <label for="SQL">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="SQL"   value="5" id="p14" required/>
+                                <label for="SQL">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="SQL"   value="4" id="p15" required/>
+                                <label for="SQL">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="SQL"   value="3" id="p16" required/>
+                                <label for="SQL">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="SQL"   value="2" id="p17" required/>
+                                <label for="SQL">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="SQL"  value="1"  id="p18" required/>
+                                <label for="SQL">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>R</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="R" value="0" id="p19" required/>
+                                <label for="R">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="R" value="5" id="p20" required/>
+                                <label for="R">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="R" value="4" id="p21"required/>
+                                <label for="R">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="R" value="3" id="p22" required/>
+                                <label for="R">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="R" value="2" id="p23" required/>
+                                <label for="R">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="R" value="1" id="p24" required/>
+                                <label for="R">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>Hadoop</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Hadoop" value="0" id="p25" required/>
+                                <label for="Hadoop">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Hadoop" value="5" id="p26" required/>
+                                <label for="Hadoop">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Hadoop" value="4" id="p27" required/>
+                                <label for="Hadoop">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Hadoop" value="3" id="p28" required/>
+                                <label for="Hadoop">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Hadoop" value="2" id="p29" required/>
+                                <label for="Hadoop">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Hadoop" value="1" id="p30" required/>
+                                <label for="Hadoop">1</label>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<button a href="/info-submit">Update Profile</button>-->
+
+                    <button type="Submit">Submit</button>
+                    <!--<input type="Submit" name="Submit" value="Submit"/>-->
+                    <!--<a href="C:/Users/Hp/Desktop/py/templates/info.html"> Update Profile</a>-->
+                     
+
+                </div>    
+            </div>
+            <div class="offset-sm-1 col-sm-4 right-color">
+
+            </div>
+        </div>
+    </div>
+  </form>
+<script type="text/javascript">
+
+    function check_dk() {
+	 if(document.getElementById('p1').checked) {  
+       var f1=document.getElementById('p1').value;
+	   }
+	   if(document.getElementById('p7').checked) {  
+       var f2=document.getElementById('p7').value;
+	   }
+	   if(document.getElementById('p13').checked) {  
+       var f3=document.getElementById('p13').value;
+	   }
+	   if(document.getElementById('p19').checked) {  
+       var f4=document.getElementById('p19').value;
+	   }
+	   if(document.getElementById('p25').checked) {  
+       var f5=document.getElementById('p25').value;}
+      
+
+     
+       if((f1==0) && (f2==0) && (f3==0) && (f4==0) && (f5==0))
+       {
+        alert('Please Enter Proper Rating!');
+        return false;
+       }
+       else
+       {
+            alert('Success!');
+       }
+
+    }
+
+    /*
+    var fin_py=0;
+    var fin_sql=0;
+    var fin_aws=0;
+    var fin_r=0;
+    var fin_had=0;
+
+
+    let btn = document.getElementById('btn');
+            btn.addEventListener('click', () => {
+            let rates = document.getElementsByName('Python');
+            rates.forEach((Python) => {
+                if (Python.checked) {
+                    fin_py=fin_py + ${Python.value};
+                }
+            })
+
+            let rates1= document.getElementsByName('SQL');
+            rates1.forEach((SQL) => {
+                if (SQL.checked) {
+                    fin_sql= fin_sql + ${SQL.value};
+                }
+            })
+
+            let rates2= document.getElementsByName('AWS');
+            rates2.forEach((AWS) => {
+                if (AWS.checked) {
+                    fin_aws= fin_aws + ${AWS.value};
+                }
+            })
+
+            let rates3= document.getElementsByName('R');
+            rates3.forEach((R) => {
+                if (R.checked) {
+                    fin_r= fin_r + ${R.value};
+                }
+            })
+
+            let rates2= document.getElementsByName('Hadoop');
+            rates2.forEach((Hadoop) => {
+                if (Hadoop.checked) {
+                    fin_had= fin_had + ${Hadoop.value};
+                }
+           
+
+            if(fin_py==0 && fin_aws==0 && fin_sql==0 && fin_r==0 && fin_had==0)
+            {
+                window.alert('Enter Your Skill Details! ');
+            }
+ });
+     */
+
+    /*
+    function check() {
+        var py=document.getElementByName('Python');
+        var fin_py=0;
+        for(var i=0;i<py.length;i++)
+        {
+            var a=py[i].value;
+            if(a!=0)
+            {
+                fin_py=a.value;
+            }
+
+        }
+         var aws=document.getElementByName('AWS');
+        var fin_aws=0;
+        for(var j=0;j<aws.length;j++)
+        {
+            var b=aws[j];
+            if(b!=0)
+            {
+                fin_aws=b.value;
+            }
+
+        }
+        var sql=document.getElementByName('SQL');
+        var fin_sql=0;
+        for(var k=0;k<sql.length;k++)
+        {
+            var c=sql[k];
+            if(c!=0)
+            {
+                fin_aws=c.value;
+            }
+
+        }
+        var r=document.getElementByName('R');
+        var fin_r=0;
+        for(var l=0;l<r.length;l++)
+        {
+            var d=r[l];
+            if(d!=0)
+            {
+                fin_r=d.value;
+            }
+
+        }
+        var hadoop=document.getElementByName('Hadoop');
+        var fin_had=0;
+        for(var m=0;m<hadoop.length;m++)
+        {
+            var e=hadoop[m];
+            if(e!=0)
+            {
+                fin_had=e.value;
+            }
+
+        }
+        if(fin_py==0 && fin_aws==0 && fin_had==0 && fin_r==0 && fin_sql==0)
+        {
+            window.alert('Enter All the Skill Ratings You Know!')
+        }
+*/
+
+        
+
+
+</script>
+  <!--<script src="js/script.js"></script>-->
+</body>
+
+</html>

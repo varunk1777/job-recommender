@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS only -->
+    <!-- JavaScript Bundle with Popper -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/rating_page.css') }}">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+      
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+        <h1>JRS<span class="color">.</span></h1>
+        <nav>
+            <ul>
+               
+                <!--<li><a href="#">Portfolio</a></li>-->
+                <!--<li><a href="/contact">Contact</a></li>-->
+                <!--<li><a href="C:/Users/Hp/Desktop/FY/PRoject/py/templates/login.html">Login</a></li>-->
+                <li><a class="login-btn" href="/">Logout</a></li>
+            </ul>
+        </nav>
+    </div>
+    </header>
+
+    <form action="{{ url_for('recommendation2') }}" method="POST"  onsubmit="return check_dk();">
+    <div class="rating-page">
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="offset-sm-1 left-sec">
+                    <div class="rate-head">Please rate each language based on <br/>your performance</div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>VLSI</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="VLSI" value="0" id="p1" required />
+                                <label for="VLSI">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="VLSI" value="5" id="p2" required />
+                                <label for="VLSI">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="VLSI" value="4" id="p3" required/>
+                                <label for="VLSI">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="VLSI" value="3" id="p4" required/>
+                                <label for="VLSI">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="VLSI" value="2"id="p5" required/>
+                                <label for="VLSI">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="VLSI" value="1"id="p6" required/>
+                                <label for="VLSI">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>MATLAB</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="MATLAB" value="0" id="p7" required/>
+                                <label for="MATLAB">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="MATLAB" value="5" id="p8" required/>
+                                <label for="MATLAB">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="MATLAB" value="4" id="p9" required/>
+                                <label for="MATLAB">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="MATLAB" value="3" id="p10" required/>
+                                <label for="MATLAB">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="MATLAB" value="2" id="p11" required/>
+                                <label for="MATLAB">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="MATLAB" value="1" id="p12" required/>
+                                <label for="MATLAB">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>Digital Communication</span> Language
+                        </div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Digital_Communication" value="0" id="p13" required/>
+                                <label for="Digital Communication">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Digital_Communication" value="5" id="p14" required/>
+                                <label for="Digital Communication">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Digital_Communication" value="4" id="p15" required/>
+                                <label for="Digital Communication">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Digital_Communication" value="3" id="p16" required/>
+                                <label for="Digital Communication">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Digital_Communication" value="2" id="p17" required/>
+                                <label for="Digital Communication">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Digital_Communication" value="1" id="p18" required/>
+                                <label for="Digital Communication">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                    <div class="question">Programing Language proficiency Level <span>Analog Communication</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Analog_Communication" value="0" id="p19" required/>
+                                <label for="Analog Communication">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Analog_Communication" value="5" id="p20" required/>
+                                <label for="Analog Communication">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Analog_Communication" value="4" id="p21" required/>
+                                <label for="Analog Communication">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Analog_Communication" value="3" id="22" required/>
+                                <label for="R">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Analog_Communication" value="2" id="p23" required/>
+                                <label for="Analog Communication">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Analog_Communication" value="1" id="p24" required/>
+                                <label for="Analog Communication">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quet-answ">
+                        <div class="question">Programing Language proficiency Level <span>Python</span> Language</div>
+                        <div class="flex-container">
+                            <div>
+                                <input type="radio"  name="Python" value="0" id="p25" required/>
+                                <label for="Python">Dont Know</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python" value="5" id="p26" required/>
+                                <label for="Python">5</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python" value="4" id="p27" required/>
+                                <label for="Python">4</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python" value="3" id="p28" required/>
+                                <label for="Python">3</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python" value="2" id="p29" required/>
+                                <label for="Python">2</label>
+                            </div>
+
+                            <div>
+                                <input type="radio"  name="Python" value="1" id="p30" required/>
+                                <label for="Python">1</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit">Submit</button>
+                    
+                </div>    
+            </div>
+            <div class="offset-sm-1 col-sm-4 right-color">
+
+            </div>
+        </div>
+    </div>
+  </form>
+
+  <script type="text/javascript">
+      function check_dk() {
+     if(document.getElementById('p1').checked) {  
+       var f1=document.getElementById('p1').value;
+       }
+       if(document.getElementById('p7').checked) {  
+       var f2=document.getElementById('p7').value;
+       }
+       if(document.getElementById('p13').checked) {  
+       var f3=document.getElementById('p13').value;
+       }
+       if(document.getElementById('p19').checked) {  
+       var f4=document.getElementById('p19').value;
+       }
+       if(document.getElementById('p25').checked) {  
+       var f5=document.getElementById('p25').value;}
+      
+
+     
+       if((f1==0) && (f2==0) && (f3==0) && (f4==0) && (f5==0))
+       {
+        alert('Please Enter Proper Rating!');
+        return false;
+       }
+       else
+       {
+            alert('Success!');
+       }
+
+    }
+
+  </script>
+</body>
+
+</html>

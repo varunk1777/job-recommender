@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Details</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/candidate_style.css') }}">
+  <!--  <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/style1.css')}}">-->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+
+</head>
+    <body>
+
+      <header>
+      <div class="container">
+        <h1>JRS<span class="color">.</span></h1>
+        <nav>
+            <ul>
+                <li><a href="/feedback" class="login-btn">Give Feedback</a></li>
+                <!--<li><a href="#">Portfolio</a></li>-->
+                <!--<li><a href="/contact">Contact</a></li>-->
+                <!--<li><a href="C:/Users/Hp/Desktop/FY/PRoject/py/templates/login.html">Login</a></li>-->
+                <li><a class="login-btn" href="/">Logout</a></li>
+            </ul>
+        </nav>
+    </div>
+    </header>
+
+      <div class="container">
+        <div class="result-nav">
+            <div class="result-head">Candidate info<span>.</span></div>
+            <!-- <div class="nav-other-options">
+                <a href="/logout"><i class="fas fa-power-off"></i> Logout</a>
+            </div> -->
+        </div>
+
+    </div>
+
+<div class="container m-t-50">
+          <div class="form-wrapper col-sm-8">
+            <form action="/info-submit" method="POST">
+
+              <div class="sub-heads">Please fill in these information</div>
+              <br>
+              <div class="sub-heads">You can fill in these details only once!</div>
+              <div class="m-t-50 form-shadow">
+
+                          <label for="area">Username</label>
+                          <input type="text" id="area" name="comment0" placeholder="" value="{{ val }}" disabled/>
+                      
+                  <div class="row">
+                  
+                      <div class="col-sm-6">
+                          <label for="area">First Name</label>
+                          <input type="text" id="area" name="comment1" placeholder=""/>
+                      </div>
+                      <div class="col-sm-6">
+                        <label for="area">Last Name</label>
+                        <input type="text" id="area" name="comment2" placeholder=""/>
+                    </div>
+
+                     <!--<div class="col-sm-6">
+                        <label for="area">Last Name</label>
+                        <input type="text" id="area" name="comment2" placeholder=""/>
+                    </div>-->
+                  </div>
+                  
+                  <div class="row">
+                      <div class="col-sm-6">
+                          <label for="soil">Gender</label><br><br>
+                          <select id="soil" name="comment11"/>
+                              <option >Male</option>
+                              <option>Female</option>
+                          <option>Others</option>
+                          </select>
+                      </div>
+                      <div class="col-sm-6">
+                          <label for="area">Date of birth</label>
+                          <input type="date" id="area"  name="comment3" placeholder="dd/mm/yyyy">
+                      </div>           
+                  </div>
+                    <label for="area">City</label>
+                        <input type="text" id="area" name="comment4" placeholder="">
+                      
+                    <label for="area">Address</label>
+                        <input type="text" id="area" name="comment5" placeholder="">
+                    
+                    <label for="area">Pincode</label>
+                        <input type="text" id="area" name="comment6" placeholder="">
+                  
+                    <label for="soil">Branch</label><br><br>
+                    <select id="soil" name="comment7">
+                        <option >Computer Science</option>
+                        <option>Electronics`</option>
+                        <option>Mechanical</option>
+                    </select>
+<br>
+<br>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <label for="area">10th percentage</label>
+                            <input type="text" id="area" name="comment8" placeholder="">
+                        </div>
+
+                        <div class="col-sm-4">
+                          <label for="area">12th percentage</label>
+                          <input type="text" id="area" name="comment9" placeholder="">
+                      </div>
+
+                      <div class="col-sm-4">
+                        <label for="area">Engineering percentage</label>
+                        <input type="text" id="area" name="comment10" placeholder="">
+                    </div>
+                    </div>
+                    
+                   
+                    
+                    <div class="m-t-50">
+                        <input class="submit-btn" type="Submit" value="Submit">
+                    </div>
+                    
+
+                   
+                </div>
+            </form>
+          </div>
+
+          <div class="col-sm-4">
+              <img class="img-width" src="{{url_for('static',filename='images/candi.png')}}">
+          </div>
+          
+  </div>
+    </body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Result</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/result_page.css')}}">
+	<!--<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/style.css')}}">-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/bootstrap.css')}}">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/36e15f62d8.js" crossorigin="anonymous"></script>
+	  
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- <a href="/">Home</a>
+         
+        <a href="/" style="float: right;">Logout</a> -->
+        <div class="result-nav">
+            <div class="result-head">Job Results<span>.</span></div>
+            <div class="nav-other-options">
+                <a href="/"><i class="fas fa-power-off"></i> Logout</a>
+            </div>
+        </div>
+
+    </div>
+
+	
+
+	
+	<center>
+		<script type="text/javascript">
+			console.log(prediction)
+		</script>
+	</center>
+
+<div class="container m-t-50">
+    <div class="sub-heads">We have found a Job Recommendation That Best Suits Your Skills</div>
+
+    <br>
+    <br>
+    <br>
+
+<div class="sub-heads">The Job Recommended To You is <span class="res">{{pred}} </span></div>
+ <br>
+    <br>
+    <br>
+
+<div class="sub-heads">To Find <span class="res">{{pred}} </span>related jobs click link below</div>
+    <!-- all job list -->
+    <div class="job-list">
+        <div class="job-item">
+
+            
+            <div class="job-role">Find {{pred}} Jobs At Naukri.com</div>
+
+            <div class="a-style"><a href="{{link}}">Find Job</a></div>
+        </div>
+<br>
+<br>
+<br>
+        <div class="job-item">
+            
+            <div class="job-role">Find {{pred}} Jobs at LinkedIn </div>
+
+            <div class="a-style"><a href="{{link4}}">Find Job</a></div>
+        </div>
+
+        
+       
+        
+    </div>
+  </div>
+  <div>
+
+
+	</div>
+
+</body>
+</html>

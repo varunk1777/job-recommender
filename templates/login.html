@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/login_css.css') }}">
+  <!--
+<style>
+
+body {
+  font-family: 'Montserrat';
+  background-color: rgb(255, 255, 255);
+}
+
+.login{
+  background-color: white;
+}
+
+.form-sidee{
+  background-color: #EFB4B3;
+}
+
+.but-onn{
+  background-color: #26b8b0;
+  border: none;
+  outline: none;
+  color: white;
+  font-weight: 400;
+  left: 38%;
+  position: relative;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+  margin-top: 25px;
+}
+
+.but-onn:hover{
+  background-color:  #0e55a5;
+}
+
+.reg{
+  margin-top: 25%;
+}
+
+.log-head{
+  color: #ffffff;
+  font-family: 'Pacifico', cursive !important;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 5px;
+  margin-bottom: 30px;
+}
+
+#email{
+  background-color: #032e61;
+}
+
+.text-bxx{
+  background-color: #EFB4B3 !important;
+  color: -internal-light-dark(black,#F36494);
+  width: 90%;
+  margin-left: 25px !important;
+  outline: none;
+  margin-bottom: 15px;
+  border:none;
+  text-align: center;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.p-txt{
+  margin-top: 35px;
+  padding-left: 25px;
+}
+
+.reg-pngg{
+  width: 90%;
+  height: 70%;
+  margin-top: 15%;
+}
+
+
+.mr-btnn{
+  margin-bottom: 40%;
+}
+
+</style>
+-->
+</head>
+<body>
+
+
+<div class="container-fluid login">
+  <div class="row">
+      <div class="container col-sm-6 form-sidee">
+        <!--<div><a href="home.html"><img class="close" src="./close.png"/></a></div>-->
+       <div><a href="\"> <img src="{{url_for('static',filename='images/close.png')}}"  class="close"></a></div>
+        <form action="/logindetails" autocomplete="off" method="post">
+          <div class="reg">
+            <div class="log-head">Login</div>
+                
+                <input class="text-bxx" type="text" placeholder="Enter Username" name="username"  required autocomplete="off"><br />
+
+                <input class="text-bxx" type="password" placeholder="Enter Password" name="password" required autocomplete="nope"><br />
+            
+                <button class="but-onn" type="submit" class="registerbtn" value="Login">LOGIN</button><br />
+                <div class="p-txt"><p>New User?<a href="/signup">REGISTER HERE</a></p></div>
+          </div> 
+          <div class="mr-btnn"></div>
+        </form>
+      </div>
+
+      <div class="col-sm-6">
+        <img class="reg-pngg" img src="{{url_for('static',filename='images/log.png')}}" alt="">
+      </div>
+  </div>
+
+
+
+
+</div>
+
+
+</body>
+</html>
