@@ -1,0 +1,61 @@
+.rating-page{
+    overflow: hidden;
+    width: 100%;
+}
+
+.right-color{
+    background-color: rgb(63, 124, 238);
+    height: 100vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.left-sec{
+    margin-top: 50px;
+}
+
+.rate-head{
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Manrope', sans-serif;
+}
+
+.quet-answ{
+    margin-top: 30px;
+}
+
+.question{
+    font-size: 17px;
+    font-family: 'Manrope', sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+.question span{
+    color: rgb(252, 0, 84);
+    font-weight: 600;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.rating-page button{
+    margin-top: 30px;
+    border: 1px solid rgb(63, 124, 238);
+    background-color: #fff;
+    outline: none;
+    padding: 8px 28px;
+    font-family: 'Manrope', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: rgb(63, 124, 238);
+}
+
+.rating-page button:hover{
+    background-color: rgb(63, 124, 238);
+    outline: none;
+    color: #fff;
+    transition: 0.3s;
+}

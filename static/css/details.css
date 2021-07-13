@@ -1,0 +1,75 @@
+body {background: linear-gradient(to right, red 0%, yellow 100%)}
+h1   {color: blue;}
+p    {color: red;}
+
+table {
+    font-size:16px;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+ td,  th {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.lbl {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: #4CAF50;
+    color: #f2f2f2;
+    width:200px;
+}
+
+
+</style>
+
+
+<h4 style="text-align: center;">details</h4><br/>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+
+table {
+    font-size:16px;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+ td,  th {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.lbl {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: #4CAF50;
+    color: #f2f2f2;
+    width:200px;
+}

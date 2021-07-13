@@ -1,0 +1,164 @@
+header {
+    text-decoration: none;
+    height: 120px;
+}
+header h1 {
+    text-decoration: none;
+    float: left;
+    margin-top: 15px;
+}
+header h1 .color {
+    text-decoration: none;
+    color: #0273dd;
+}
+header nav {
+    text-decoration: none;
+    float: right;
+}
+header nav ul li {
+    text-decoration: none;
+    
+    display: inline-block;
+    margin-top: 30px;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: #444;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: block;
+    margin-left: 50px;
+}
+header a:hover {
+    text-decoration: none;
+}
+
+.login-btn{
+    background-color: rgb(0, 51, 218);
+    padding: 6px 20px;
+    color: #fff;
+    border-radius: 25px;
+    letter-spacing: 1px;
+    margin-top: -5px;
+    margin-right: 450px;
+    border: none;
+    outline: none;
+}
+
+.login-btn:hover{
+    background-color: rgb(6, 16, 51);
+    color: #fff;
+}
+
+
+
+
+
+
+.result-nav{
+  margin-top: 35px;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+}
+
+.result-nav span{
+  color: #1f93ff;
+}
+
+.result-head{
+  font-size: 30px;
+  font-weight: 800;
+  color: #262727;
+}
+
+.nav-other-options{
+  position: absolute;
+  right: 10%;
+}
+
+.nav-other-options a{
+  font-style: 18px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-other-options a:hover{
+  text-decoration: none;
+}
+
+.button-1 {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    background: #444;
+    border-radius: 3px;
+    color: #fff;
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin: 0 auto;
+}
+
+.rating-page{
+    overflow: hidden;
+    width: 100%;
+
+}
+
+.right-color{
+    background-color: rgb(63, 124, 238);
+    height: 100vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.left-sec{
+    margin-top: 30px;
+}
+
+.rate-head{
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Manrope', sans-serif;
+}
+
+.quet-answ{
+    margin-top: 30px;
+}
+
+.question{
+    font-size: 17px;
+    font-family: 'Manrope', sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+.question span{
+    color: rgb(252, 0, 84);
+    font-weight: 600;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.rating-page button{
+    margin-top: 30px;
+    border: 1px solid rgb(63, 124, 238);
+    background-color: #fff;
+    outline: none;
+    padding: 8px 28px;
+    font-family: 'Manrope', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: rgb(63, 124, 238);
+}
+
+.rating-page button:hover{
+    background-color: rgb(63, 124, 238);
+    outline: none;
+    color: #fff;
+    transition: 0.3s;
+}

@@ -1,0 +1,241 @@
+header {
+    text-decoration: none;
+    height: 120px;
+}
+header h1 {
+    text-decoration: none;
+    float: left;
+    margin-top: 15px;
+}
+header h1 .color {
+    text-decoration: none;
+    color: #0273dd;
+}
+header nav {
+    text-decoration: none;
+    float: right;
+}
+header nav ul li {
+    text-decoration: none;
+    
+    display: inline-block;
+    margin-top: 30px;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: #444;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: block;
+    margin-left: 50px;
+}
+.login-btn{
+    background-color: rgb(0, 51, 218);
+    padding: 8px 18px;
+    color: #fff;
+    border-radius: 25px;
+    letter-spacing: 1px;
+    margin-top: -5px;
+    border: none;
+    outline: none;
+}
+
+.login-btn:hover{
+    background-color: rgb(6, 16, 51);
+    color: #fff;
+}
+
+
+.row.content {height: 550px}
+
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+      padding :15px;
+    }
+
+      a.more-link{ background-color: #000000;
+         color: white;
+         padding: 14px 25px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+        }
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+* {box-sizing: border-box}
+
+input[type=text], input[type=email], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #ffffff;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ .signin{
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+label{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+input[type=text], select,.user{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.input[type=text]:focus{
+  border: 1px solid rgb(4, 63, 226);
+}
+
+input[type=date],.user{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+div {
+  background-color: #ffffff;
+
+}
+
+.result-nav{
+  margin-top: 35px;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+}
+
+.result-nav span{
+  color: #1f93ff;
+}
+
+.result-head{
+  font-size: 30px;
+  font-weight: 800;
+  color: #262727;
+}
+
+.nav-other-options{
+  position: absolute;
+  right: 10%;
+}
+
+.sub-heads{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  font-weight: 600;
+  color: #1f93ff;
+}
+
+.m-t-50{
+  margin-top: 50px;
+}
+
+.submit-btn{
+  background-color: #1f93ff !important;
+  width: 30% !important;
+  color: #fff !important;
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  outline: none;
+  border-radius: 6px;
+
+position: relative;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.submit-btn:hover{
+  background-color: #042b50 !important;
+  width: 30% !important;
+  color: #fff !important;
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+
+.form-shadow{
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  padding: 8% 5%;
+  margin-bottom: 10%;
+  border-radius: 10px;
+}
+
+
+.img-width{
+  width: 100%;
+  height: 100%;
+  margin-top: 100px;
+  margin-left: 40px;
+}
+
+#soil{
+  margin-top: -10px;
+  height:46px;
+}
