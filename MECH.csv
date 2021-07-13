@@ -1,0 +1,1022 @@
+jobId,title,genres,DegreeType
+0,Mechanical Enginer,Ansys|Engineering Design|Solid state mechanics|SolidWorks|CAD,MTech
+1,Mechanical Enginer,Ansys|Solid state mechanics|CAD,MTech
+2,Mechanical Enginer,Solid state mechanics|Engineering Design,MTech
+3,Mechanical Enginer,Solid state mechanics|CAD|Engineering Design,MTech
+4,Mechanical Enginer,Solid state mechanics,BE
+5,Mechanical Enginer,SolidWorks|Ansys,BE
+6,Mechanical Enginer,Solid state mechanics|Engineering Design,MTech
+7,Mechanical Enginer,Ansys|Solid state mechanics,MTech
+8,Mechanical Enginer,SolidWorks,MTech
+9,Mechanical Enginer,SolidWorks|Ansys,MTech
+10,Mechanical Enginer,Solid state mechanics|CAD|Engineering Design,BE
+11,Mechanical Enginer,Solid state mechanics|SolidWorks,BE
+12,Mechanical Enginer,Ansys|Engineering Design|Solid state mechanics,BE
+13,Mechanical Enginer,CAD,BE
+14,Mechanical Enginer,SolidWorks|Ansys|Engineering Design,BE
+15,Mechanical Enginer,SolidWorks|CAD,MTech
+16,Mechanical Enginer,CAD|Engineering Design,BE
+17,Mechanical Enginer,Solid state mechanics,BE
+18,Mechanical Enginer,Solid state mechanics,MTech
+19,Mechanical Enginer,SolidWorks|Solid state mechanics|CAD,MTech
+20,Mechanical Enginer,Solid state mechanics|SolidWorks,BE
+21,Mechanical Enginer,SolidWorks|CAD|Ansys,BE
+22,Mechanical Enginer,SolidWorks,MTech
+23,Mechanical Enginer,CAD|Solid state mechanics,BE
+24,Mechanical Enginer,CAD|Engineering Design,BE
+25,Mechanical Enginer,CAD,BE
+26,Mechanical Enginer,Solid state mechanics|CAD,MTech
+27,Mechanical Enginer,CAD|Engineering Design,BE
+28,Mechanical Enginer,Ansys|CAD|CAD,MTech
+29,Mechanical Enginer,SolidWorks|CAD,MTech
+30,Mechanical Enginer,CAD,BE
+31,Mechanical Enginer,Ansys|CAD,BE
+32,Mechanical Enginer,Ansys|Engineering Design,BE
+33,Mechanical Enginer,Solid state mechanics|CAD,MTech
+34,Mechanical Enginer,CAD|Engineering Design,BE
+35,Mechanical Enginer,SolidWorks|CAD,BE
+36,Mechanical Enginer,Engineering Design|Ansys,BE
+37,Mechanical Enginer,Solid state mechanics|Solid state mechanics,BE
+38,Mechanical Enginer,Solid state mechanics|Engineering Design,MTech
+39,Mechanical Enginer,CAD,BE
+40,Mechanical Enginer,CAD,MTech
+41,Mechanical Enginer,SolidWorks|SolidWorks|CAD,BE
+42,Mechanical Enginer,CAD,BE
+43,Mechanical Enginer,SolidWorks|Ansys|CAD,MTech
+44,Mechanical Enginer,Solid state mechanics|CAD,BE
+45,Mechanical Enginer,CAD|Engineering Design,MTech
+46,Mechanical Enginer,SolidWorks|Solid state mechanics,BE
+47,Mechanical Enginer,Solid state mechanics|CAD|Engineering Design,BE
+48,Mechanical Enginer,SolidWorks,BE
+49,Mechanical Enginer,Solid state mechanics|CAD|Engineering Design,BE
+50,Mechanical Enginer,Ansys|CAD,BE
+51,Mechanical Enginer,Solid state mechanics|Solid state mechanics,BE
+52,Mechanical Enginer,CAD,MTech
+53,Mechanical Enginer,CAD,MTech
+54,Mechanical Enginer,Solid state mechanics|CAD|Engineering Design,BE
+55,Mechanical Enginer,CAD|,MTech
+56,Mechanical Enginer,Ansys|Solid state mechanics|CAD,MTech
+57,Mechanical Enginer,CAD,BE
+58,Mechanical Enginer,CAD,BE
+59,Mechanical Enginer,Solid state mechanics|SolidWorks,BE
+60,Mechanical Enginer,Solid state mechanics|Engineering Design,BE
+61,Mechanical Enginer,Solid state mechanics,MTech
+62,Mechanical Enginer,SolidWorks|CAD,MTech
+63,Mechanical Enginer,CAD,BE
+64,Mechanical Enginer,Solid state mechanics|Engineering Design,MTech
+65,Mechanical Enginer,Solid state mechanics,BE
+66,Mechanical Enginer,SolidWorks|Solid state mechanics|SolidWorks,MTech
+67,Mechanical Enginer,SolidWorks,MTech
+68,Mechanical Enginer,Solid state mechanics|CAD,BE
+69,Mechanical Enginer,CAD,BE
+70,Mechanical Enginer,CAD|Engineering Design,MTech
+71,Mechanical Enginer,SolidWorks|CAD,BE
+72,Mechanical Enginer,CAD,MTech
+73,Mechanical Enginer,SolidWorks|Solid state mechanics|CAD,BE
+74,Mechanical Enginer,CAD,MTech
+75,Mechanical Enginer,Solid state mechanics|CAD,MTech
+76,Mechanical Enginer,SolidWorks|CAD|Engineering Design,MTech
+77,Mechanical Enginer,Solid state mechanics|CAD,MTech
+78,Mechanical Enginer,CAD|Engineering Design,MTech
+79,Mechanical Enginer,Solid state mechanics|CAD,BE
+80,Mechanical Enginer,CAD|Engineering Design,BE
+81,Mechanical Enginer,SolidWorks|Ansys|CAD,BE
+82,Mechanical Enginer,Solid state mechanics|Solid state mechanics,BE
+83,Mechanical Enginer,Solid state mechanics,MTech
+84,Mechanical Enginer,SolidWorks|,BE
+85,Mechanical Enginer,CAD|SolidWorks,MTech
+86,Mechanical Enginer,Solid state mechanics|SolidWorks|Engineering Design,BE
+87,Mechanical Enginer,Solid state mechanics|CAD|Engineering Design,MTech
+88,Mechanical Enginer,SolidWorks|Ansys,MTech
+89,Mechanical Enginer,Solid state mechanics|CAD,MTech
+90,Mechanical Enginer,SolidWorks|CAD,BE
+91,Mechanical Enginer,SolidWorks,BE
+92,Mechanical Enginer,Ansys,BE
+93,Mechanical Enginer,CAD,MTech
+94,Mechanical Enginer,Ansys|Solid state mechanics|SolidWorks|Engineering Design,BE
+95,Mechanical Enginer,Solid state mechanics,PhD
+96,Mechanical Enginer,CAD,MTech
+97,Mechanical Enginer,Solid state mechanics,MTech
+98,Mechanical Enginer,CAD|Engineering Design,MTech
+99,Mechanical Enginer,Solid state mechanics|CAD,MTech
+100,Mechanical Enginer,Ansys|Solid state mechanics|SolidWorks,MTech
+101,Mechanical Enginer,SolidWorks|CAD|Engineering Design,MTech
+102,Mechanical Enginer,SolidWorks|CAD|,MTech
+103,Mechanical Enginer,SolidWorks|Ansys|Solid state mechanics|SolidWorks,BE
+104,Mechanical Enginer,CAD|,BE
+105,Mechanical Enginer,CAD,MTech
+106,Mechanical Enginer,CAD,MTech
+107,Mechanical Enginer,SolidWorks|CAD,BE
+108,Mechanical Enginer,Solid state mechanics|Engineering Design,BE
+109,Mechanical Enginer,Solid state mechanics,BE
+110,Mechanical Enginer,Ansys|Solid state mechanics|CAD,BE
+111,Mechanical Enginer,CAD,BE
+112,Mechanical Enginer,Solid state mechanics|Engineering Design,BE
+113,Mechanical Enginer,CAD||Engineering Design,BE
+114,Mechanical Enginer,CAD,BE
+115,Mechanical Enginer,Solid state mechanics,BE
+116,Mechanical Enginer,Ansys|Solid state mechanics|CAD,BE
+117,Mechanical Enginer,CAD,BE
+118,Mechanical Enginer,CAD|Engineering Design,BE
+119,Mechanical Enginer,Engineering Design|Ansys,MTech
+120,Mechanical Enginer,Solid state mechanics|CAD,MTech
+121,Mechanical Enginer,Ansys,BE
+122,Mechanical Enginer,Solid state mechanics,MTech
+123,Mechanical Enginer,SolidWorks,MTech
+124,Mechanical Enginer,Engineering Design|SolidWorks,BE
+125,Mechanical Enginer,CAD,BE
+126,Mechanical Enginer,CAD|Engineering Design,MTech
+127,Mechanical Enginer,Solid state mechanics,BE
+128,Mechanical Enginer,Solid state mechanics,MTech
+129,Mechanical Enginer,SolidWorks|Solid state mechanics|CAD,MTech
+130,Mechanical Enginer,Ansys|Solid state mechanics,MTech
+131,Mechanical Enginer,CAD,MTech
+132,Mechanical Enginer,CAD,MTech
+133,Mechanical Enginer,SolidWorks|CAD,BE
+134,Mechanical Enginer,Ansys|CAD,BE
+135,Mechanical Enginer,SolidWorks|CAD|Engineering Design,MTech
+136,Mechanical Enginer,CAD|SolidWorks,MTech
+137,Mechanical Enginer,SolidWorks|Ansys|Solid state mechanics,MTech
+138,Mechanical Enginer,CAD,BE
+139,Mechanical Enginer,Ansys|CAD,MTech
+140,Mechanical Enginer,Solid state mechanics|CAD,MTech
+141,Mechanical Enginer,Solid state mechanics|,BE
+142,Mechanical Enginer,Ansys|Solid state mechanics,BE
+143,Mechanical Enginer,SolidWorks|CAD,MTech
+144,Mechanical Enginer,SolidWorks|Ansys|CAD,BE
+145,Mechanical Enginer,CAD,MTech
+146,Mechanical Enginer,SolidWorks|Engineering Design,MTech
+147,Mechanical Enginer,SolidWorks|Engineering Design|Ansys,MTech
+148,Mechanical Enginer,SolidWorks|Solid state mechanics,BE
+149,Mechanical Enginer,SolidWorks,BE
+150,Mechanical Enginer,Solid state mechanics|SolidWorks|CAD,MTech
+151,Mechanical Enginer,SolidWorks|CAD|Engineering Design,BE
+152,Mechanical Enginer,Ansys|Solid state mechanics|CAD,MTech
+153,Mechanical Enginer,SolidWorks|Ansys|SolidWorks|,MTech
+154,Mechanical Enginer,Solid state mechanics|CAD,MTech
+155,Mechanical Enginer,SolidWorks|CAD|,BE
+156,Mechanical Enginer,SolidWorks|CAD,BE
+157,Mechanical Enginer,Solid state mechanics,MTech
+158,Mechanical Enginer,CAD,MTech
+159,Mechanical Enginer,Solid state mechanics,MTech
+160,Mechanical Enginer,SolidWorks,BE
+161,Mechanical Enginer,Solid state mechanics|CAD,BE
+162,Mechanical Enginer,CAD|Engineering Design,BE
+163,Mechanical Enginer,Solid state mechanics|Engineering Design,BE
+164,Powertrain Enginer,SolidWorks|Solid state mechanics,BE
+165,Powertrain Enginer,CAD|Engineering Design,BE
+166,Powertrain Enginer,Solid state mechanics|SolidWorks,BE
+167,Powertrain Enginer,CAD,BE
+168,Powertrain Enginer,SolidWorks|Solid state mechanics,BE
+169,Powertrain Enginer,Solid state mechanics|Engineering Design,BE
+170,Powertrain Enginer,Solid state mechanics,BE
+171,Powertrain Enginer,CAD|SolidWorks,BE
+172,Powertrain Enginer,Solid state mechanics|CAD,BE
+173,Powertrain Enginer,Engineering Design,MTech
+174,Powertrain Enginer,CAD|Engineering Design,BE
+175,Powertrain Enginer,CAD,MTech
+176,Powertrain Enginer,Solid state mechanics|CAD,BE
+177,Powertrain Enginer,Solid state mechanics|CAD|Engineering Design,BE
+178,Powertrain Enginer,SolidWorks|CAD,BE
+179,Powertrain Enginer,SolidWorks|Ansys|CAD|Solid state mechanics,MTech
+180,Powertrain Enginer,CAD|SolidWorks|Engineering Design,MTech
+181,Powertrain Enginer,Ansys,BE
+182,Powertrain Enginer,CAD|SolidWorks,BE
+183,Powertrain Enginer,CAD|Engineering Design,MTech
+184,Powertrain Enginer,Solid state mechanics,PhD
+185,Powertrain Enginer,SolidWorks,BE
+186,Powertrain Enginer,Solid state mechanics|CAD,BE
+187,Powertrain Enginer,CAD,BE
+188,Powertrain Enginer,CAD|Engineering Design,BE
+189,Powertrain Enginer,SolidWorks|Ansys|CAD,MTech
+190,Powertrain Enginer,CAD,BE
+191,Powertrain Enginer,SolidWorks,BE
+192,Powertrain Enginer,CAD,BE
+193,Powertrain Enginer,Ansys|Solid state mechanics|SolidWorks,BE
+194,Powertrain Enginer,CAD,BE
+195,Powertrain Enginer,CAD,BE
+196,Powertrain Enginer,CAD|Engineering Design,PhD
+197,Powertrain Enginer,Solid state mechanics,BE
+198,Powertrain Enginer,CAD,MTech
+199,Powertrain Enginer,Solid state mechanics|CAD,MTech
+200,Powertrain Enginer,CAD,BE
+201,Powertrain Enginer,SolidWorks,BE
+202,Powertrain Enginer,CAD|Engineering Design,BE
+203,Powertrain Enginer,Solid state mechanics,MTech
+204,Powertrain Enginer,Solid state mechanics|CAD|Engineering Design,MTech
+205,Powertrain Enginer,CAD,BE
+206,Powertrain Enginer,SolidWorks,BE
+207,Powertrain Enginer,CAD,BE
+208,Powertrain Enginer,CAD,BE
+209,Powertrain Enginer,Ansys|Solid state mechanics,BE
+210,Powertrain Enginer,Solid state mechanics|CAD|Engineering Design,BE
+211,Powertrain Enginer,CAD,BE
+212,Powertrain Enginer,Solid state mechanics,MTech
+213,Powertrain Enginer,Solid state mechanics|CAD,MTech
+214,Powertrain Enginer,SolidWorks|Solid state mechanics|Engineering Design,MTech
+215,Powertrain Enginer,Solid state mechanics|Engineering Design,MTech
+216,Powertrain Enginer,Ansys|Solid state mechanics,BE
+217,Powertrain Enginer,Engineering Design|Solid state mechanics|Engineering Design,BE
+218,Powertrain Enginer,SolidWorks|Ansys,BE
+219,Powertrain Enginer,Solid state mechanics|CAD,MTech
+220,Powertrain Enginer,CAD,BE
+221,Powertrain Enginer,Solid state mechanics|Solid state mechanics|CAD,BE
+222,Powertrain Enginer,Engineering Design|Solid state mechanics,BE
+223,Powertrain Enginer,SolidWorks|CAD,BE
+224,Powertrain Enginer,CAD,MTech
+225,Powertrain Enginer,SolidWorks|CAD,BE
+226,Powertrain Enginer,Solid state mechanics,MTech
+227,Powertrain Enginer,CAD|Engineering Design,MTech
+228,Powertrain Enginer,Solid state mechanics|Solid state mechanics,BE
+229,Powertrain Enginer,SolidWorks,MTech
+230,Powertrain Enginer,Solid state mechanics|Engineering Design,BE
+231,Powertrain Enginer,CAD|SolidWorks,BE
+232,Powertrain Enginer,CAD,BE
+233,Powertrain Enginer,Solid state mechanics,BE
+234,Powertrain Enginer,Solid state mechanics|CAD,BE
+235,Powertrain Enginer,Ansys,BE
+236,Powertrain Enginer,Ansys|Solid state mechanics|CAD|Engineering Design,BE
+237,Powertrain Enginer,SolidWorks|CAD,MTech
+238,Powertrain Enginer,SolidWorks|Ansys|CAD,BE
+239,Powertrain Enginer,CAD,MTech
+240,Powertrain Enginer,Solid state mechanics|CAD,MTech
+241,Powertrain Enginer,CAD,BE
+242,Powertrain Enginer,CAD,BE
+243,Powertrain Enginer,CAD|Engineering Design,BE
+244,Powertrain Enginer,CAD|Engineering Design,BE
+245,Powertrain Enginer,Solid state mechanics,BE
+246,Powertrain Enginer,SolidWorks|CAD,BE
+247,Powertrain Enginer,CAD,BE
+248,Powertrain Enginer,CAD|Engineering Design,BE
+249,Powertrain Enginer,CAD,MTech
+250,Powertrain Enginer,Solid state mechanics|CAD,BE
+251,Powertrain Enginer,CAD|SolidWorks|CAD,MTech
+252,Powertrain Enginer,Solid state mechanics,BE
+253,Powertrain Enginer,Solid state mechanics,BE
+254,Powertrain Enginer,Solid state mechanics|Engineering Design,BE
+255,Powertrain Enginer,CAD,BE
+256,Powertrain Enginer,Solid state mechanics,BE
+257,Powertrain Enginer,CAD,MTech
+258,Powertrain Enginer,CAD|,BE
+259,Powertrain Enginer,Solid state mechanics|CAD|Engineering Design,BE
+260,Powertrain Enginer,CAD,BE
+261,Powertrain Enginer,SolidWorks|CAD,BE
+262,Powertrain Enginer,CAD|SolidWorks,MTech
+263,Powertrain Enginer,Solid state mechanics|Engineering Design,MTech
+264,Powertrain Enginer,SolidWorks,BE
+265,Powertrain Enginer,Solid state mechanics|Engineering Design,BE
+266,Powertrain Enginer,SolidWorks|CAD,BE
+267,Powertrain Enginer,CAD,BE
+268,Powertrain Enginer,SolidWorks|CAD|Solid state mechanics,MTech
+269,Powertrain Enginer,SolidWorks|CAD,BE
+270,Powertrain Enginer,Solid state mechanics|Engineering Design,BE
+271,Powertrain Enginer,Solid state mechanics|Engineering Design,MTech
+272,Powertrain Enginer,Solid state mechanics|SolidWorks|CAD,BE
+273,Powertrain Enginer,CAD,MTech
+274,Powertrain Enginer,CAD,MTech
+275,Powertrain Enginer,CAD,BE
+276,Powertrain Enginer,CAD,MTech
+277,Powertrain Enginer,CAD|Engineering Design,BE
+278,Powertrain Enginer,CAD|Engineering Design,MTech
+279,Powertrain Enginer,SolidWorks|Ansys|CAD,BE
+280,Powertrain Enginer,Solid state mechanics|CAD,PhD
+281,Powertrain Enginer,Solid state mechanics,BE
+282,Powertrain Enginer,CAD,MTech
+283,Powertrain Enginer,CAD,BE
+284,Powertrain Enginer,Solid state mechanics|CAD,BE
+285,Powertrain Enginer,CAD,MTech
+286,Powertrain Enginer,Solid state mechanics,BE
+287,Powertrain Enginer,Solid state mechanics,MTech
+288,Powertrain Enginer,Engineering Design|Solid state mechanics,MTech
+289,Powertrain Enginer,Solid state mechanics|CAD,BE
+290,Powertrain Enginer,SolidWorks|CAD|,BE
+291,Powertrain Enginer,SolidWorks|Ansys|CAD,BE
+292,Powertrain Enginer,Solid state mechanics|CAD|CAD,MTech
+293,Powertrain Enginer,SolidWorks|CAD,PhD
+294,Powertrain Enginer,Solid state mechanics|CAD,BE
+295,Powertrain Enginer,SolidWorks,BE
+296,Powertrain Enginer,CAD,BE
+297,Powertrain Enginer,Solid state mechanics|CAD,BE
+298,Powertrain Enginer,Solid state mechanics|CAD,BE
+299,Powertrain Enginer,Solid state mechanics,PhD
+300,Powertrain Enginer,CAD,MTech
+301,Powertrain Enginer,SolidWorks|Solid state mechanics|CAD,BE
+302,Powertrain Enginer,SolidWorks,BE
+303,Powertrain Enginer,Ansys|CAD,BE
+304,Powertrain Enginer,SolidWorks|Engineering Design,BE
+305,Powertrain Enginer,CAD,BE
+306,Powertrain Enginer,SolidWorks|CAD,BE
+307,Powertrain Enginer,Solid state mechanics,BE
+308,Powertrain Enginer,CAD,MTech
+309,Powertrain Enginer,Engineering Design|Ansys,BE
+310,Powertrain Enginer,CAD,PhD
+311,Powertrain Enginer,CAD,BE
+312,Powertrain Enginer,SolidWorks|CAD,BE
+313,Powertrain Enginer,Solid state mechanics|Engineering Design,BE
+314,Powertrain Enginer,Ansys|CAD,BE
+315,Powertrain Enginer,CAD,MTech
+316,Powertrain Enginer,Solid state mechanics,BE
+317,Powertrain Enginer,Solid state mechanics,MTech
+318,Powertrain Enginer,Solid state mechanics,MTech
+319,Powertrain Enginer,Solid state mechanics|CAD,BE
+320,Powertrain Enginer,CAD,MTech
+321,Powertrain Enginer,CAD|Engineering Design,BE
+322,Powertrain Enginer,Solid state mechanics,BE
+323,Powertrain Enginer,SolidWorks|Ansys|CAD,BE
+324,Powertrain Enginer,CAD,BE
+325,Powertrain Enginer,Solid state mechanics|CAD|Engineering Design,MTech
+326,Powertrain Enginer,Solid state mechanics|CAD,BE
+327,Powertrain Enginer,SolidWorks|CAD,BE
+328,Powertrain Enginer,CAD,BE
+329,Powertrain Enginer,Solid state mechanics|Solid state mechanics|CAD,MTech
+330,Powertrain Enginer,Solid state mechanics|CAD|Engineering Design,MTech
+331,Powertrain Enginer,Solid state mechanics|Engineering Design,MTech
+332,Powertrain Enginer,CAD,BE
+333,Powertrain Enginer,SolidWorks|Solid state mechanics,BE
+334,Powertrain Enginer,Solid state mechanics|CAD|Engineering Design,BE
+335,Powertrain Enginer,Ansys|Solid state mechanics|Engineering Design,BE
+336,Powertrain Enginer,CAD,BE
+337,Powertrain Enginer,SolidWorks|Ansys|CAD,BE
+338,Instrumentation Engineer,CAD,BE
+339,Instrumentation Engineer,CAD|SolidWorks,MTech
+340,Instrumentation Engineer,SolidWorks|Solid state mechanics|SolidWorks|CAD,MTech
+341,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+342,Instrumentation Engineer,CAD,BE
+343,Instrumentation Engineer,SolidWorks|Solid state mechanics,BE
+344,Instrumentation Engineer,Solid state mechanics|CAD,BE
+345,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+346,Instrumentation Engineer,SolidWorks,BE
+347,Instrumentation Engineer,Solid state mechanics|Solid state mechanics,BE
+348,Instrumentation Engineer,CAD,MTech
+349,Instrumentation Engineer,SolidWorks,BE
+350,Instrumentation Engineer,SolidWorks|Engineering Design,BE
+351,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+352,Instrumentation Engineer,SolidWorks|CAD,BE
+353,Instrumentation Engineer,SolidWorks|Ansys|Solid state mechanics|Engineering Design,MTech
+354,Instrumentation Engineer,CAD|Engineering Design,BE
+355,Instrumentation Engineer,CAD|SolidWorks|Engineering Design,BE
+356,Instrumentation Engineer,Engineering Design,BE
+357,Instrumentation Engineer,SolidWorks|CAD,BE
+358,Instrumentation Engineer,CAD,BE
+359,Instrumentation Engineer,SolidWorks|Solid state mechanics,MTech
+360,Instrumentation Engineer,CAD,MTech
+361,Instrumentation Engineer,CAD|Engineering Design,BE
+362,Instrumentation Engineer,SolidWorks|CAD,BE
+363,Instrumentation Engineer,SolidWorks|CAD,BE
+364,Instrumentation Engineer,Ansys|Engineering Design,MTech
+365,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+366,Instrumentation Engineer,Solid state mechanics,BE
+367,Instrumentation Engineer,Solid state mechanics|SolidWorks|CAD,MTech
+368,Instrumentation Engineer,CAD,BE
+369,Instrumentation Engineer,SolidWorks|CAD,BE
+370,Instrumentation Engineer,SolidWorks,BE
+371,Instrumentation Engineer,CAD,BE
+372,Instrumentation Engineer,Solid state mechanics|Solid state mechanics|CAD,BE
+373,Instrumentation Engineer,CAD,BE
+374,Instrumentation Engineer,Solid state mechanics,BE
+375,Instrumentation Engineer,Solid state mechanics,MTech
+376,Instrumentation Engineer,Solid state mechanics|,BE
+377,Instrumentation Engineer,Engineering Design,MTech
+378,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+379,Instrumentation Engineer,CAD,BE
+380,Instrumentation Engineer,Solid state mechanics,PhD
+381,Instrumentation Engineer,SolidWorks|Solid state mechanics,BE
+382,Instrumentation Engineer,Ansys|Solid state mechanics|CAD,BE
+383,Instrumentation Engineer,Ansys|Solid state mechanics,MTech
+384,Instrumentation Engineer,SolidWorks,MTech
+385,Instrumentation Engineer,CAD,BE
+386,Instrumentation Engineer,CAD|Engineering Design,MTech
+387,Instrumentation Engineer,SolidWorks|CAD,BE
+388,Instrumentation Engineer,CAD|Engineering Design,MTech
+389,Instrumentation Engineer,CAD,MTech
+390,Instrumentation Engineer,Solid state mechanics,MTech
+391,Instrumentation Engineer,SolidWorks|CAD,MTech
+392,Instrumentation Engineer,Ansys|Solid state mechanics|SolidWorks,BE
+393,Instrumentation Engineer,Solid state mechanics,MTech
+394,Instrumentation Engineer,SolidWorks|Ansys,BE
+395,Instrumentation Engineer,Solid state mechanics|CAD,BE
+396,Instrumentation Engineer,CAD,BE
+397,Instrumentation Engineer,Solid state mechanics,BE
+398,Instrumentation Engineer,SolidWorks|Solid state mechanics|CAD,BE
+399,Instrumentation Engineer,CAD,MTech
+400,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+401,Instrumentation Engineer,Solid state mechanics,MTech
+402,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+403,Instrumentation Engineer,Ansys|CAD,MTech
+404,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+405,Instrumentation Engineer,Solid state mechanics,BE
+406,Instrumentation Engineer,CAD|Engineering Design,BE
+407,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+408,Instrumentation Engineer,CAD,BE
+409,Instrumentation Engineer,Solid state mechanics,BE
+410,Instrumentation Engineer,Solid state mechanics|CAD,BE
+411,Instrumentation Engineer,CAD|Engineering Design,MTech
+412,Instrumentation Engineer,CAD,BE
+413,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+414,Instrumentation Engineer,CAD|,PhD
+415,Instrumentation Engineer,Ansys|Solid state mechanics|CAD,MTech
+416,Instrumentation Engineer,SolidWorks|CAD,BE
+417,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+418,Instrumentation Engineer,CAD|Engineering Design,BE
+419,Instrumentation Engineer,SolidWorks|Ansys|SolidWorks|CAD|Engineering Design,BE
+420,Instrumentation Engineer,Solid state mechanics,BE
+421,Instrumentation Engineer,CAD|Engineering Design,BE
+422,Instrumentation Engineer,SolidWorks|CAD,MTech
+423,Instrumentation Engineer,SolidWorks|Ansys|SolidWorks,MTech
+424,Instrumentation Engineer,SolidWorks|CAD,BE
+425,Instrumentation Engineer,SolidWorks|Solid state mechanics,BE
+426,Instrumentation Engineer,Solid state mechanics,BE
+427,Instrumentation Engineer,Solid state mechanics|Engineering Design,PhD
+428,Instrumentation Engineer,CAD|Engineering Design,MTech
+429,Instrumentation Engineer,Solid state mechanics,BE
+430,Instrumentation Engineer,Solid state mechanics,BE
+431,Instrumentation Engineer,Solid state mechanics|CAD,BE
+432,Instrumentation Engineer,Solid state mechanics,BE
+433,Instrumentation Engineer,SolidWorks,MTech
+434,Instrumentation Engineer,CAD,BE
+435,Instrumentation Engineer,Solid state mechanics|CAD,BE
+436,Instrumentation Engineer,CAD,BE
+437,Instrumentation Engineer,Solid state mechanics|SolidWorks|CAD,PhD
+438,Instrumentation Engineer,SolidWorks,BE
+439,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+440,Instrumentation Engineer,CAD,BE
+441,Instrumentation Engineer,SolidWorks|CAD,MTech
+442,Instrumentation Engineer,CAD,MTech
+443,Instrumentation Engineer,Ansys|Solid state mechanics,MTech
+444,Instrumentation Engineer,SolidWorks|Ansys|Solid state mechanics|CAD,MTech
+445,Instrumentation Engineer,Solid state mechanics,BE
+446,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+447,Instrumentation Engineer,CAD|Engineering Design,MTech
+448,Instrumentation Engineer,Solid state mechanics,BE
+449,Instrumentation Engineer,SolidWorks,MTech
+450,Instrumentation Engineer,CAD,BE
+451,Instrumentation Engineer,Solid state mechanics,MTech
+452,Instrumentation Engineer,SolidWorks|CAD,BE
+453,Instrumentation Engineer,SolidWorks|Ansys,BE
+454,Instrumentation Engineer,CAD,BE
+455,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,MTech
+456,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+457,Instrumentation Engineer,CAD|Engineering Design,BE
+458,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+459,Instrumentation Engineer,Solid state mechanics|CAD,BE
+460,Instrumentation Engineer,CAD,BE
+461,Instrumentation Engineer,SolidWorks|Solid state mechanics|Engineering Design,BE
+462,Instrumentation Engineer,SolidWorks|CAD,BE
+463,Instrumentation Engineer,Solid state mechanics,BE
+464,Instrumentation Engineer,CAD|Engineering Design,MTech
+465,Instrumentation Engineer,SolidWorks|CAD,BE
+466,Instrumentation Engineer,CAD,BE
+467,Instrumentation Engineer,CAD|Engineering Design,BE
+468,Instrumentation Engineer,CAD,MTech
+469,Instrumentation Engineer,SolidWorks|CAD,MTech
+470,Instrumentation Engineer,SolidWorks|CAD,MTech
+471,Instrumentation Engineer,Solid state mechanics|SolidWorks|Engineering Design,BE
+472,Instrumentation Engineer,Solid state mechanics,MTech
+473,Instrumentation Engineer,CAD|Engineering Design,BE
+474,Instrumentation Engineer,Solid state mechanics|CAD,BE
+475,Instrumentation Engineer,SolidWorks|CAD,BE
+476,Instrumentation Engineer,Solid state mechanics,PhD
+477,Instrumentation Engineer,SolidWorks|SolidWorks|CAD,PhD
+478,Instrumentation Engineer,Solid state mechanics,BE
+479,Instrumentation Engineer,SolidWorks,MTech
+480,Instrumentation Engineer,SolidWorks|CAD,MTech
+481,Instrumentation Engineer,CAD,BE
+482,Instrumentation Engineer,CAD,BE
+483,Instrumentation Engineer,CAD,BE
+484,Instrumentation Engineer,CAD|SolidWorks,MTech
+485,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+486,Instrumentation Engineer,CAD,BE
+487,Instrumentation Engineer,Solid state mechanics|CAD,BE
+488,Instrumentation Engineer,Solid state mechanics|SolidWorks,MTech
+489,Instrumentation Engineer,SolidWorks|Ansys|CAD,MTech
+490,Instrumentation Engineer,CAD|Engineering Design,MTech
+491,Instrumentation Engineer,CAD,MTech
+492,Instrumentation Engineer,CAD,BE
+493,Instrumentation Engineer,CAD,BE
+494,Instrumentation Engineer,CAD,BE
+495,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+496,Instrumentation Engineer,Ansys|Solid state mechanics,BE
+497,Instrumentation Engineer,SolidWorks|CAD,BE
+498,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,MTech
+499,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+500,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+501,Instrumentation Engineer,SolidWorks|Ansys|Solid state mechanics,MTech
+502,Instrumentation Engineer,SolidWorks|Ansys,BE
+503,Instrumentation Engineer,SolidWorks,BE
+504,Instrumentation Engineer,CAD,MTech
+505,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+506,Instrumentation Engineer,Engineering Design|Solid state mechanics|CAD,MTech
+507,Instrumentation Engineer,SolidWorks|Ansys|Solid state mechanics|Engineering Design,MTech
+508,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+509,Instrumentation Engineer,SolidWorks|CAD|,BE
+510,Instrumentation Engineer,SolidWorks|,MTech
+511,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+512,Instrumentation Engineer,SolidWorks|Ansys|Engineering Design|Solid state mechanics|CAD,BE
+513,Instrumentation Engineer,CAD|,MTech
+514,Instrumentation Engineer,Solid state mechanics|CAD,BE
+515,Instrumentation Engineer,CAD|Engineering Design,BE
+516,Instrumentation Engineer,CAD|SolidWorks,BE
+517,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+518,Instrumentation Engineer,Solid state mechanics|CAD,BE
+519,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+520,Instrumentation Engineer,Solid state mechanics|CAD,BE
+521,Instrumentation Engineer,CAD|Engineering Design,BE
+522,Instrumentation Engineer,CAD,BE
+523,Instrumentation Engineer,CAD,BE
+524,Instrumentation Engineer,Solid state mechanics|CAD,BE
+525,Instrumentation Engineer,Solid state mechanics|Solid state mechanics,MTech
+526,Instrumentation Engineer,Ansys|Solid state mechanics|CAD,BE
+527,Instrumentation Engineer,CAD,MTech
+528,Instrumentation Engineer,CAD,BE
+529,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+530,Instrumentation Engineer,Solid state mechanics,MTech
+531,Instrumentation Engineer,Solid state mechanics|Solid state mechanics,MTech
+532,Instrumentation Engineer,Solid state mechanics|CAD|CAD|Engineering Design,BE
+533,Instrumentation Engineer,Ansys|Engineering Design|Solid state mechanics,BE
+534,Instrumentation Engineer,SolidWorks|CAD,BE
+535,Instrumentation Engineer,Ansys|CAD|Engineering Design,MTech
+536,Instrumentation Engineer,SolidWorks|Ansys|CAD,PhD
+537,Instrumentation Engineer,SolidWorks|Engineering Design,BE
+538,Instrumentation Engineer,Engineering Design|Solid state mechanics|CAD|CAD,BE
+539,Instrumentation Engineer,Engineering Design|Solid state mechanics|CAD|Engineering Design,MTech
+540,Instrumentation Engineer,Engineering Design|Solid state mechanics|CAD,MTech
+541,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+542,Instrumentation Engineer,SolidWorks|Ansys|CAD,MTech
+543,Instrumentation Engineer,SolidWorks|Solid state mechanics,BE
+544,Instrumentation Engineer,SolidWorks|Ansys|CAD,MTech
+545,Instrumentation Engineer,Solid state mechanics,MTech
+546,Instrumentation Engineer,CAD|Engineering Design,BE
+547,Instrumentation Engineer,CAD|SolidWorks,BE
+548,Instrumentation Engineer,Solid state mechanics|SolidWorks|CAD,BE
+549,Instrumentation Engineer,Ansys|Solid state mechanics,BE
+550,Instrumentation Engineer,SolidWorks|Ansys|Engineering Design|SolidWorks|CAD,BE
+551,Instrumentation Engineer,SolidWorks|SolidWorks|CAD,BE
+552,Instrumentation Engineer,Solid state mechanics,BE
+553,Instrumentation Engineer,CAD|Engineering Design,BE
+554,Instrumentation Engineer,CAD,BE
+555,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+556,Instrumentation Engineer,Engineering Design|Solid state mechanics,BE
+557,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+558,Instrumentation Engineer,Solid state mechanics,MTech
+559,Instrumentation Engineer,CAD,BE
+560,Instrumentation Engineer,CAD,BE
+561,Instrumentation Engineer,SolidWorks|CAD,BE
+562,Instrumentation Engineer,CAD|Engineering Design,BE
+563,Instrumentation Engineer,Ansys|Engineering Design|Solid state mechanics|CAD,MTech
+564,Instrumentation Engineer,CAD|,BE
+565,Instrumentation Engineer,Solid state mechanics,BE
+566,Instrumentation Engineer,Solid state mechanics,BE
+567,Instrumentation Engineer,Solid state mechanics|CAD,BE
+568,Instrumentation Engineer,Solid state mechanics,MTech
+569,Instrumentation Engineer,Engineering Design,BE
+570,Instrumentation Engineer,CAD|,BE
+571,Instrumentation Engineer,CAD,BE
+572,Instrumentation Engineer,SolidWorks|SolidWorks|CAD|,BE
+573,Instrumentation Engineer,SolidWorks|Ansys||,BE
+574,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+575,Instrumentation Engineer,CAD,BE
+576,Instrumentation Engineer,SolidWorks||,BE
+577,Instrumentation Engineer,SolidWorks|Ansys|CAD,MTech
+578,Instrumentation Engineer,CAD|Engineering Design,MTech
+579,Instrumentation Engineer,Solid state mechanics,BE
+580,Instrumentation Engineer,SolidWorks|CAD|,MTech
+581,Instrumentation Engineer,Ansys|Engineering Design|Solid state mechanics|CAD|,MTech
+582,Instrumentation Engineer,SolidWorks,BE
+583,Instrumentation Engineer,Solid state mechanics,BE
+584,Instrumentation Engineer,Solid state mechanics,MTech
+585,Instrumentation Engineer,Solid state mechanics|CAD|,MTech
+586,Instrumentation Engineer,SolidWorks,MTech
+587,Instrumentation Engineer,CAD,BE
+588,Instrumentation Engineer,CAD,BE
+589,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+590,Instrumentation Engineer,CAD,BE
+591,Instrumentation Engineer,Ansys|Engineering Design|Solid state mechanics|Solid state mechanics|CAD|CAD,MTech
+592,Instrumentation Engineer,Ansys|Solid state mechanics|CAD,MTech
+593,Instrumentation Engineer,CAD|,MTech
+594,Instrumentation Engineer,CAD,BE
+595,Instrumentation Engineer,CAD||Engineering Design|CAD|,BE
+596,Instrumentation Engineer,SolidWorks,BE
+597,Instrumentation Engineer,CAD,MTech
+598,Instrumentation Engineer,SolidWorks|Ansys|Solid state mechanics|,BE
+599,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+600,Instrumentation Engineer,SolidWorks|CAD|,MTech
+601,Instrumentation Engineer,SolidWorks|SolidWorks|CAD,BE
+602,Instrumentation Engineer,|,MTech
+603,Instrumentation Engineer,CAD|Engineering Design,BE
+604,Instrumentation Engineer,CAD,PhD
+605,Instrumentation Engineer,Solid state mechanics,BE
+606,Instrumentation Engineer,CAD,BE
+607,Instrumentation Engineer,CAD,BE
+608,Instrumentation Engineer,SolidWorks|Ansys,BE
+609,Instrumentation Engineer,Solid state mechanics,BE
+610,Instrumentation Engineer,CAD,MTech
+611,Instrumentation Engineer,SolidWorks|CAD|,BE
+612,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+613,Instrumentation Engineer,Ansys|Engineering Design|Solid state mechanics|Solid state mechanics|,BE
+614,Instrumentation Engineer,Solid state mechanics,BE
+615,Instrumentation Engineer,Ansys|Solid state mechanics,BE
+616,Instrumentation Engineer,SolidWorks|CAD|Engineering Design|,BE
+617,Instrumentation Engineer,CAD||Engineering Design,BE
+618,Instrumentation Engineer,CAD|Engineering Design,BE
+619,Instrumentation Engineer,Solid state mechanics|CAD|CAD,BE
+620,Instrumentation Engineer,Solid state mechanics,BE
+621,Instrumentation Engineer,Ansys|Engineering Design|Solid state mechanics,MTech
+622,Instrumentation Engineer,CAD,MTech
+623,Instrumentation Engineer,CAD|CAD|SolidWorks|,BE
+624,Instrumentation Engineer,Solid state mechanics,BE
+625,Instrumentation Engineer,CAD,BE
+626,Instrumentation Engineer,Solid state mechanics,BE
+627,Instrumentation Engineer,SolidWorks|,BE
+628,Instrumentation Engineer,SolidWorks,MTech
+629,Instrumentation Engineer,SolidWorks|Ansys|,BE
+630,Instrumentation Engineer,SolidWorks,MTech
+631,Instrumentation Engineer,SolidWorks|Ansys|Engineering Design|,MTech
+632,Instrumentation Engineer,SolidWorks|CAD,BE
+633,Instrumentation Engineer,Engineering Design|CAD,BE
+634,Instrumentation Engineer,SolidWorks|,BE
+635,Instrumentation Engineer,Solid state mechanics,BE
+636,Instrumentation Engineer,Engineering Design|Solid state mechanics|Solid state mechanics,BE
+637,Instrumentation Engineer,Solid state mechanics,BE
+638,Instrumentation Engineer,SolidWorks|CAD,BE
+639,Instrumentation Engineer,Solid state mechanics|,MTech
+640,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+641,Instrumentation Engineer,Solid state mechanics|CAD,BE
+642,Instrumentation Engineer,CAD,PhD
+643,Instrumentation Engineer,CAD,BE
+644,Instrumentation Engineer,CAD,BE
+645,Instrumentation Engineer,CAD,MTech
+646,Instrumentation Engineer,SolidWorks|Ansys,MTech
+647,Instrumentation Engineer,Solid state mechanics|SolidWorks,BE
+648,Instrumentation Engineer,CAD|Engineering Design,MTech
+649,Instrumentation Engineer,Solid state mechanics|CAD,BE
+650,Instrumentation Engineer,CAD,MTech
+651,Instrumentation Engineer,Solid state mechanics|CAD,PhD
+652,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+653,Instrumentation Engineer,Ansys,BE
+654,Instrumentation Engineer,Solid state mechanics|SolidWorks|CAD,MTech
+655,Instrumentation Engineer,CAD|Engineering Design,MTech
+656,Instrumentation Engineer,SolidWorks|Ansys|CAD,MTech
+657,Instrumentation Engineer,CAD,MTech
+658,Instrumentation Engineer,CAD|,BE
+659,Instrumentation Engineer,Engineering Design|Solid state mechanics|CAD||Engineering Design,PhD
+660,Instrumentation Engineer,Solid state mechanics|,BE
+661,Instrumentation Engineer,Solid state mechanics,BE
+662,Instrumentation Engineer,SolidWorks|CAD|,MTech
+663,Instrumentation Engineer,CAD,MTech
+664,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design|CAD,BE
+665,Instrumentation Engineer,CAD,BE
+666,Instrumentation Engineer,SolidWorks|Ansys|CAD|,BE
+667,Instrumentation Engineer,Solid state mechanics|SolidWorks|,BE
+668,Instrumentation Engineer,CAD||Engineering Design,MTech
+669,Instrumentation Engineer,Solid state mechanics|Solid state mechanics,PhD
+670,Instrumentation Engineer,CAD|Engineering Design,BE
+671,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,MTech
+672,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+673,Instrumentation Engineer,CAD|,MTech
+674,Instrumentation Engineer,SolidWorks|CAD,BE
+675,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+676,Instrumentation Engineer,Ansys|Solid state mechanics,BE
+677,Instrumentation Engineer,SolidWorks|Ansys,MTech
+678,Instrumentation Engineer,Solid state mechanics|Solid state mechanics|CAD,BE
+679,Instrumentation Engineer,Solid state mechanics,MTech
+680,Instrumentation Engineer,CAD,MTech
+681,Instrumentation Engineer,Solid state mechanics,MTech
+682,Instrumentation Engineer,CAD|,BE
+683,Instrumentation Engineer,CAD,MTech
+684,Instrumentation Engineer,Ansys|Solid state mechanics,MTech
+685,Instrumentation Engineer,Solid state mechanics|CAD|,MTech
+686,Instrumentation Engineer,Solid state mechanics,MTech
+687,Instrumentation Engineer,SolidWorks|,BE
+688,Instrumentation Engineer,Solid state mechanics,BE
+689,Instrumentation Engineer,Solid state mechanics,BE
+690,Instrumentation Engineer,CAD,MTech
+691,Instrumentation Engineer,SolidWorks|Ansys|,BE
+692,Instrumentation Engineer,Solid state mechanics|Solid state mechanics|CAD,MTech
+693,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+694,Instrumentation Engineer,SolidWorks|,MTech
+695,Instrumentation Engineer,Solid state mechanics|Solid state mechanics,MTech
+696,Instrumentation Engineer,SolidWorks,BE
+697,Instrumentation Engineer,Solid state mechanics|SolidWorks,BE
+698,Instrumentation Engineer,CAD,BE
+699,Instrumentation Engineer,SolidWorks|Ansys|CAD|,PhD
+700,Instrumentation Engineer,SolidWorks|CAD,BE
+701,Instrumentation Engineer,CAD,MTech
+702,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+703,Instrumentation Engineer,SolidWorks|CAD,BE
+704,Instrumentation Engineer,Solid state mechanics,MTech
+705,Instrumentation Engineer,SolidWorks|Solid state mechanics|SolidWorks|,BE
+706,Instrumentation Engineer,CAD,MTech
+707,Instrumentation Engineer,CAD,BE
+708,Instrumentation Engineer,SolidWorks|CAD|Engineering Design|,MTech
+709,Instrumentation Engineer,SolidWorks|CAD||,MTech
+710,Instrumentation Engineer,Solid state mechanics,MTech
+711,Instrumentation Engineer,SolidWorks|SolidWorks|CAD,MTech
+712,Instrumentation Engineer,SolidWorks|Solid state mechanics|SolidWorks|,MTech
+713,Instrumentation Engineer,SolidWorks|,BE
+714,Instrumentation Engineer,CAD|,BE
+715,Instrumentation Engineer,Solid state mechanics|Solid state mechanics,MTech
+716,Instrumentation Engineer,CAD|,BE
+717,Instrumentation Engineer,Solid state mechanics|CAD|CAD,BE
+718,Instrumentation Engineer,SolidWorks|Solid state mechanics|SolidWorks,MTech
+719,Instrumentation Engineer,Ansys|Engineering Design|Solid state mechanics|,BE
+720,Instrumentation Engineer,SolidWorks|,BE
+721,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+722,Instrumentation Engineer,CAD,BE
+723,Instrumentation Engineer,CAD,MTech
+724,Instrumentation Engineer,Ansys|CAD|Engineering Design|,MTech
+725,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+726,Instrumentation Engineer,Solid state mechanics||Engineering Design,MTech
+727,Instrumentation Engineer,|Engineering Design,BE
+728,Instrumentation Engineer,Solid state mechanics|,BE
+729,Instrumentation Engineer,CAD|Engineering Design,BE
+730,Instrumentation Engineer,CAD||Engineering Design|,MTech
+731,Instrumentation Engineer,|,MTech
+732,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+733,Instrumentation Engineer,CAD|,BE
+734,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+735,Instrumentation Engineer,SolidWorks|Ansys|Engineering Design,BE
+736,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,MTech
+737,Instrumentation Engineer,Solid state mechanics|SolidWorks,BE
+738,Instrumentation Engineer,Solid state mechanics|SolidWorks|Engineering Design,MTech
+739,Instrumentation Engineer,CAD|Engineering Design,BE
+740,Instrumentation Engineer,SolidWorks,BE
+741,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+742,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+743,Instrumentation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+744,Instrumentation Engineer,Solid state mechanics|CAD,BE
+745,Instrumentation Engineer,Ansys,BE
+746,Instrumentation Engineer,Ansys|Solid state mechanics|CAD,BE
+747,Instrumentation Engineer,CAD|Engineering Design,BE
+748,Instrumentation Engineer,Solid state mechanics,BE
+749,Instrumentation Engineer,CAD|Engineering Design,BE
+750,Instrumentation Engineer,CAD,PhD
+751,Instrumentation Engineer,Ansys|CAD|CAD,BE
+752,Instrumentation Engineer,Ansys|Engineering Design,BE
+753,Instrumentation Engineer,CAD,MTech
+754,Instrumentation Engineer,Solid state mechanics,MTech
+755,Instrumentation Engineer,CAD|Engineering Design,MTech
+756,Instrumentation Engineer,CAD,BE
+757,Instrumentation Engineer,Engineering Design,BE
+758,Instrumentation Engineer,SolidWorks|Engineering Design,BE
+759,Instrumentation Engineer,CAD|Engineering Design,BE
+760,Instrumentation Engineer,SolidWorks|Engineering Design,MTech
+761,Instrumentation Engineer,Solid state mechanics,BE
+762,Instrumentation Engineer,Solid state mechanics,BE
+763,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+764,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+765,Instrumentation Engineer,SolidWorks|Ansys|CAD,BE
+766,Instrumentation Engineer,SolidWorks|Ansys|Engineering Design,BE
+767,Instrumentation Engineer,Ansys,BE
+768,Instrumentation Engineer,SolidWorks,BE
+769,Instrumentation Engineer,CAD|CAD|Engineering Design,BE
+770,Instrumentation Engineer,CAD,MTech
+771,Instrumentation Engineer,Solid state mechanics|Engineering Design,MTech
+772,Instrumentation Engineer,Solid state mechanics|CAD,BE
+773,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+774,Instrumentation Engineer,CAD|Engineering Design|Ansys,MTech
+775,Instrumentation Engineer,CAD,MTech
+776,Instrumentation Engineer,Solid state mechanics|SolidWorks,BE
+777,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+778,Instrumentation Engineer,Ansys|Solid state mechanics,BE
+779,Instrumentation Engineer,CAD|CAD|Engineering Design,MTech
+780,Instrumentation Engineer,CAD,MTech
+781,Instrumentation Engineer,Solid state mechanics|Engineering Design,BE
+782,Instrumentation Engineer,CAD|Engineering Design,MTech
+783,Instrumentation Engineer,CAD,PhD
+784,Instrumentation Engineer,CAD,MTech
+785,Instrumentation Engineer,SolidWorks|CAD,MTech
+786,Instrumentation Engineer,CAD,MTech
+787,Instrumentation Engineer,SolidWorks|Ansys|CAD,MTech
+788,Instrumentation Engineer,Engineering Design|Engineering Design,MTech
+789,Instrumentation Engineer,CAD,BE
+790,Instrumentation Engineer,Engineering Design,MTech
+791,Instrumentation Engineer,SolidWorks|CAD|,BE
+792,Instrumentation Engineer,Ansys|Solid state mechanics|Engineering Design,BE
+793,Instrumentation Engineer,Ansys|Solid state mechanics|SolidWorks|CAD|Engineering Design,BE
+794,Instrumentation Engineer,CAD,MTech
+795,Instrumentation Engineer,Solid state mechanics|CAD,BE
+796,Instrumentation Engineer,CAD|Engineering Design,MTech
+797,Instrumentation Engineer,Solid state mechanics|,MTech
+798,Instrumentation Engineer,Engineering Design|,BE
+799,Instrumentation Engineer,CAD,BE
+800,Instrumentation Engineer,CAD,BE
+801,Instrumentation Engineer,Solid state mechanics|CAD,BE
+802,Instrumentation Engineer,Ansys|Solid state mechanics,BE
+803,Instrumentation Engineer,CAD|Engineering Design,BE
+804,Instrumentation Engineer,Solid state mechanics|CAD,MTech
+805,Instrumentation Engineer,CAD,MTech
+806,Instrumentation Engineer,SolidWorks|Ansys,BE
+807,Instrumentation Engineer,CAD,MTech
+808,Instrumentation Engineer,SolidWorks,BE
+809,Instrumentation Engineer,CAD,BE
+810,Instrumentation Engineer,Solid state mechanics|CAD,BE
+811,Instrumentation Engineer,SolidWorks|SolidWorks|CAD|,BE
+812,Instrumentation Engineer,CAD|,BE
+813,Instrumentation Engineer,SolidWorks|SolidWorks,BE
+814,Automation Engineer,SolidWorks|,MTech
+815,Automation Engineer,SolidWorks,BE
+816,Automation Engineer,Solid state mechanics|Engineering Design,BE
+817,Automation Engineer,CAD|,BE
+818,Automation Engineer,SolidWorks|,BE
+819,Automation Engineer,Solid state mechanics|Solid state mechanics,BE
+820,Automation Engineer,CAD,BE
+821,Automation Engineer,Solid state mechanics|Solid state mechanics|Engineering Design,BE
+822,Automation Engineer,Ansys|Engineering Design,MTech
+823,Automation Engineer,Ansys|Solid state mechanics|CAD,BE
+824,Automation Engineer,Solid state mechanics|Solid state mechanics,BE
+825,Automation Engineer,Ansys|Solid state mechanics|Solid state mechanics,BE
+826,Automation Engineer,Solid state mechanics|CAD,MTech
+827,Automation Engineer,Solid state mechanics|Solid state mechanics|Engineering Design,MTech
+828,Automation Engineer,Solid state mechanics|Solid state mechanics|CAD,BE
+829,Automation Engineer,Ansys|Solid state mechanics|CAD,BE
+830,Automation Engineer,Solid state mechanics|Solid state mechanics,MTech
+831,Automation Engineer,Ansys|Solid state mechanics,BE
+832,Automation Engineer,Solid state mechanics|Solid state mechanics|,MTech
+833,Automation Engineer,Ansys|CAD|CAD,MTech
+834,Automation Engineer,Solid state mechanics,BE
+835,Automation Engineer,Solid state mechanics|Solid state mechanics,MTech
+836,Automation Engineer,Engineering Design|Solid state mechanics|CAD,BE
+837,Automation Engineer,Engineering Design|Solid state mechanics,BE
+838,Automation Engineer,Engineering Design|Solid state mechanics,BE
+839,Automation Engineer,Engineering Design|Solid state mechanics|CAD,MTech
+840,Automation Engineer,Solid state mechanics|CAD,BE
+841,Automation Engineer,Ansys|CAD,BE
+842,Automation Engineer,Solid state mechanics|Solid state mechanics|CAD,BE
+843,Automation Engineer,Engineering Design|Solid state mechanics|CAD,BE
+844,Automation Engineer,Ansys|Engineering Design|Solid state mechanics,BE
+845,Automation Engineer,Ansys|Solid state mechanics,MTech
+846,Automation Engineer,Ansys|Engineering Design|Solid state mechanics|CAD,BE
+847,Automation Engineer,Engineering Design|Solid state mechanics|CAD,BE
+848,Automation Engineer,Solid state mechanics|SolidWorks|CAD,MTech
+849,Automation Engineer,|Engineering Design,BE
+850,Automation Engineer,SolidWorks|Ansys|CAD,BE
+851,Automation Engineer,SolidWorks|Ansys|CAD,PhD
+852,Automation Engineer,CAD,BE
+853,Automation Engineer,CAD,MTech
+854,Automation Engineer,CAD,MTech
+855,Automation Engineer,Solid state mechanics|CAD,MTech
+856,Automation Engineer,CAD|Engineering Design,BE
+857,Automation Engineer,CAD,PhD
+858,Automation Engineer,Solid state mechanics|CAD,MTech
+859,Automation Engineer,CAD|Engineering Design,MTech
+860,Automation Engineer,SolidWorks|CAD,BE
+861,Automation Engineer,SolidWorks|Ansys,MTech
+862,Automation Engineer,Ansys|CAD,BE
+863,Automation Engineer,CAD,BE
+864,Automation Engineer,CAD,MTech
+865,Automation Engineer,SolidWorks|Ansys,BE
+866,Automation Engineer,CAD,BE
+867,Automation Engineer,Solid state mechanics|Engineering Design,MTech
+868,Automation Engineer,CAD,BE
+869,Automation Engineer,CAD|Engineering Design,BE
+870,Automation Engineer,Solid state mechanics|CAD,BE
+871,Automation Engineer,Ansys|Engineering Design,MTech
+872,Automation Engineer,Engineering Design|Solid state mechanics|CAD,BE
+873,Automation Engineer,Solid state mechanics|Engineering Design,MTech
+874,Automation Engineer,Solid state mechanics|Engineering Design,BE
+875,Automation Engineer,SolidWorks,BE
+876,Automation Engineer,SolidWorks|Ansys,MTech
+877,Automation Engineer,Ansys,PhD
+878,Automation Engineer,Solid state mechanics|CAD,BE
+879,Automation Engineer,CAD|SolidWorks,BE
+880,Automation Engineer,Solid state mechanics|CAD,BE
+881,Automation Engineer,Solid state mechanics|,BE
+882,Automation Engineer,Solid state mechanics|SolidWorks,MTech
+883,Automation Engineer,Solid state mechanics,BE
+884,Automation Engineer,Solid state mechanics|Engineering Design,MTech
+885,Automation Engineer,CAD,BE
+886,Automation Engineer,Solid state mechanics|,MTech
+887,Automation Engineer,SolidWorks|CAD,BE
+888,Automation Engineer,Ansys|CAD,BE
+889,Automation Engineer,SolidWorks,BE
+890,Automation Engineer,SolidWorks|Ansys|CAD,BE
+891,Automation Engineer,CAD|Engineering Design,BE
+892,Automation Engineer,SolidWorks,BE
+893,Automation Engineer,CAD,MTech
+894,Automation Engineer,Solid state mechanics,BE
+895,Automation Engineer,SolidWorks,BE
+896,Automation Engineer,CAD,MTech
+897,Automation Engineer,CAD|Engineering Design,MTech
+898,Automation Engineer,CAD,BE
+899,Automation Engineer,CAD,BE
+900,Automation Engineer,Solid state mechanics|CAD,BE
+901,Automation Engineer,Solid state mechanics,BE
+902,Automation Engineer,Solid state mechanics|CAD,BE
+903,Automation Engineer,SolidWorks|CAD|Engineering Design,MTech
+904,Automation Engineer,SolidWorks|Engineering Design,BE
+905,Automation Engineer,CAD,MTech
+906,Automation Engineer,CAD,MTech
+907,Automation Engineer,SolidWorks,MTech
+908,Automation Engineer,Solid state mechanics,BE
+909,Automation Engineer,SolidWorks|Ansys|CAD,BE
+910,Automation Engineer,SolidWorks|Solid state mechanics|CAD,MTech
+911,Automation Engineer,Solid state mechanics,BE
+912,Automation Engineer,SolidWorks|CAD,BE
+913,Automation Engineer,CAD,BE
+914,Automation Engineer,CAD,MTech
+915,Automation Engineer,CAD,BE
+916,Automation Engineer,Solid state mechanics|CAD,MTech
+917,Automation Engineer,SolidWorks|Ansys|CAD,MTech
+918,Automation Engineer,CAD,BE
+919,Automation Engineer,Solid state mechanics|SolidWorks,BE
+920,Automation Engineer,Solid state mechanics|CAD,BE
+921,Automation Engineer,SolidWorks|Ansys|CAD,BE
+922,Automation Engineer,SolidWorks,MTech
+923,Automation Engineer,SolidWorks|Ansys|CAD,BE
+924,Automation Engineer,SolidWorks,BE
+925,Automation Engineer,CAD,BE
+926,Automation Engineer,CAD,MTech
+927,Automation Engineer,Solid state mechanics,BE
+928,Automation Engineer,Ansys|Solid state mechanics|CAD,BE
+929,Automation Engineer,Solid state mechanics,BE
+930,Automation Engineer,SolidWorks|Ansys|CAD,BE
+931,Automation Engineer,Engineering Design|Solid state mechanics|SolidWorks,BE
+932,Automation Engineer,CAD,MTech
+933,Automation Engineer,Engineering Design|Solid state mechanics,BE
+934,Automation Engineer,SolidWorks,MTech
+935,Automation Engineer,SolidWorks|Ansys|CAD,BE
+936,Automation Engineer,CAD,MTech
+937,Automation Engineer,CAD,MTech
+938,Automation Engineer,Solid state mechanics|CAD,MTech
+939,Automation Engineer,CAD,BE
+940,Automation Engineer,Solid state mechanics,BE
+941,Automation Engineer,SolidWorks|Ansys|SolidWorks,MTech
+942,Automation Engineer,Ansys,BE
+943,Automation Engineer,Solid state mechanics,BE
+944,Automation Engineer,CAD,BE
+945,Automation Engineer,Solid state mechanics|CAD,BE
+946,Automation Engineer,Solid state mechanics|CAD|Engineering Design,BE
+947,Automation Engineer,CAD|CAD|Engineering Design,BE
+948,Automation Engineer,CAD|Engineering Design,MTech
+949,Automation Engineer,CAD|,MTech
+950,Automation Engineer,SolidWorks|CAD,BE
+951,Automation Engineer,Solid state mechanics,BE
+952,Automation Engineer,Engineering Design,BE
+953,Automation Engineer,CAD|Engineering Design,MTech
+954,Automation Engineer,Solid state mechanics|CAD,MTech
+955,Automation Engineer,CAD,BE
+956,Automation Engineer,CAD,MTech
+957,Automation Engineer,CAD,MTech
+958,Automation Engineer,Solid state mechanics|Engineering Design,MTech
+959,Automation Engineer,Ansys,MTech
+960,Automation Engineer,SolidWorks|CAD|Engineering Design,BE
+961,Automation Engineer,Ansys|,BE
+962,Automation Engineer,Ansys,MTech
+963,Automation Engineer,CAD,BE
+964,Automation Engineer,Solid state mechanics,PhD
+965,Automation Engineer,SolidWorks|Ansys|CAD,MTech
+966,Automation Engineer,SolidWorks|Ansys|Solid state mechanics|CAD|Engineering Design,BE
+967,Automation Engineer,SolidWorks|Ansys,BE
+968,Automation Engineer,CAD|CAD,MTech
+969,Automation Engineer,SolidWorks|Ansys|SolidWorks|CAD,MTech
+970,Automation Engineer,SolidWorks|Ansys,BE
+971,Automation Engineer,Solid state mechanics,BE
+972,Automation Engineer,CAD,BE
+973,Automation Engineer,Ansys|CAD,BE
+974,Automation Engineer,SolidWorks|CAD|,BE
+975,Automation Engineer,CAD,MTech
+976,Automation Engineer,SolidWorks|CAD,BE
+977,Automation Engineer,SolidWorks|CAD,BE
+978,Automation Engineer,SolidWorks|Ansys|CAD,MTech
+979,Automation Engineer,CAD|Engineering Design,BE
+980,Automation Engineer,SolidWorks|Solid state mechanics,BE
+981,Automation Engineer,SolidWorks|CAD,MTech
+982,Automation Engineer,SolidWorks|CAD,BE
+983,Automation Engineer,SolidWorks|Ansys|Solid state mechanics|CAD,MTech
+984,Automation Engineer,Ansys|CAD|Engineering Design,BE
+985,Automation Engineer,CAD,BE
+986,Automation Engineer,SolidWorks|SolidWorks|CAD,BE
+987,Automation Engineer,SolidWorks|Solid state mechanics,MTech
+988,Automation Engineer,SolidWorks|Ansys|Solid state mechanics|CAD,MTech
+989,Automation Engineer,SolidWorks|CAD,BE
+990,Automation Engineer,CAD,BE
+991,Automation Engineer,Ansys|Engineering Design|Solid state mechanics|SolidWorks,BE
+992,Automation Engineer,SolidWorks|CAD|Engineering Design,BE
+993,Automation Engineer,CAD,BE
+994,Automation Engineer,CAD|Engineering Design,BE
+995,Automation Engineer,SolidWorks|CAD,BE
+996,Automation Engineer,CAD,PhD
+997,Automation Engineer,Solid state mechanics|Engineering Design,PhD
+998,Automation Engineer,CAD,BE
+999,Automation Engineer,CAD,BE
+1000,Automation Engineer,Ansys|Engineering Design|Solid state mechanics,BE
+1001,Mechanical Design Engineer,SolidWorks|SolidWorks|CAD,BE
+1002,Mechanical Design Engineer,SolidWorks|Solid state mechanics,MTech
+1003,Mechanical Design Engineer,SolidWorks|Ansys|Solid state mechanics|CAD,MTech
+1004,Mechanical Design Engineer,SolidWorks|CAD,BE
+1005,Mechanical Design Engineer,CAD,BE
+1006,Mechanical Design Engineer,Ansys|Engineering Design|Solid state mechanics|SolidWorks,BE
+1007,Mechanical Design Engineer,SolidWorks|CAD|Engineering Design,BE
+1008,Mechanical Design Engineer,CAD,BE
+1009,Mechanical Design Engineer,CAD|Engineering Design,BE
+1010,Mechanical Design Engineer,SolidWorks|CAD,BE
+1011,Product Engineer,Solid state mechanics,BE
+1012,Product Engineer,SolidWorks|Ansys|CAD,BE
+1013,Product Engineer,SolidWorks|Ansys|Solid state mechanics|CAD|Engineering Design,MTech
+1014,Product Engineer,SolidWorks|Ansys,MTech
+1015,Product Engineer,CAD|CAD,BE
+1016,Product Engineer,SolidWorks|Ansys|SolidWorks|CAD,BE
+1017,Product Engineer,SolidWorks|Ansys,BE
+1018,Product Engineer,Solid state mechanics,BE
+1019,Product Engineer,CAD,BE
+1020,Product Engineer,Ansys|CAD,BE

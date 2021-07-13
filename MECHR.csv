@@ -1,0 +1,84 @@
+0,3,3,2,1,Mechanical Enginer
+1,4,4,3,3,Mechanical Enginer
+3,2,2,4,4,Mechanical Enginer
+4,0,0,1,2,Mechanical Enginer
+2,1,1,2,0,Mechanical Enginer
+0,2,2,0,1,Mechanical Enginer
+1,3,3,2,2,Mechanical Enginer
+2,4,4,1,3,Mechanical Enginer
+3,1,1,3,4,Mechanical Enginer
+4,2,2,4,1,Powertrain Enginer
+1,0,0,0,2,Powertrain Enginer
+2,2,2,1,0,Powertrain Enginer
+0,1,1,3,2,Powertrain Enginer
+2,3,3,2,1,Powertrain Enginer
+1,4,4,1,3,Powertrain Enginer
+3,0,0,4,4,Powertrain Enginer
+4,1,1,0,0,Powertrain Enginer
+0,3,3,1,1,Powertrain Enginer
+1,2,2,2,3,Powertrain Enginer
+3,1,1,3,2,Powertrain Enginer
+2,4,2,4,1,Powertrain Enginer
+1,0,1,0,4,Powertrain Enginer
+4,1,3,3,0,Powertrain Enginer
+0,2,4,2,1,Powertrain Enginer
+1,3,0,4,2,Powertrain Enginer
+2,4,1,4,3,Instrumentation Engineer
+3,0,3,0,4,Instrumentation Engineer
+4,3,2,1,1,Instrumentation Engineer
+0,2,1,2,3,Instrumentation Engineer
+3,4,4,2,4,Instrumentation Engineer
+2,4,0,3,2,Instrumentation Engineer
+4,0,1,4,0,Instrumentation Engineer
+1,1,2,1,1,Instrumentation Engineer
+4,2,3,2,2,Instrumentation Engineer
+1,3,4,0,3,Instrumentation Engineer
+0,4,0,2,4,Instrumentation Engineer
+2,0,3,1,1,Instrumentation Engineer
+3,3,2,3,2,Instrumentation Engineer
+1,2,4,4,0,Instrumentation Engineer
+4,4,1,0,2,Instrumentation Engineer
+0,1,4,1,1,Instrumentation Engineer
+1,4,1,3,3,Instrumentation Engineer
+3,1,2,2,4,Instrumentation Engineer
+2,0,1,1,0,Automation Engineer
+0,2,3,4,1,Automation Engineer
+4,3,4,0,3,Automation Engineer
+4,1,0,1,2,Automation Engineer
+3,4,1,2,1,Automation Engineer
+2,0,3,3,4,Automation Engineer
+0,1,2,4,0,Automation Engineer
+1,3,1,0,1,Automation Engineer
+3,2,4,3,2,Automation Engineer
+4,0,0,2,3,Automation Engineer
+2,4,1,4,4,Automation Engineer
+4,4,2,4,1,Automation Engineer
+2,3,3,0,3,Automation Engineer
+0,2,4,1,4,Automation Engineer
+1,0,0,2,2,Automation Engineer
+2,1,3,2,0,Automation Engineer
+3,2,2,0,1,Automation Engineer
+4,4,4,1,2,Mechanical Enginer
+1,2,1,2,3,Mechanical Enginer
+2,0,4,4,4,Mechanical Enginer
+0,1,1,2,1,Mechanical Enginer
+2,2,3,0,2,Mechanical Enginer
+1,4,2,1,0,Mechanical Enginer
+3,3,4,2,2,Mechanical Enginer
+4,2,0,4,1,Mechanical Enginer
+0,0,1,3,3,Mechanical Enginer
+5,5,5,5,5,Mechanical Design Engineer
+2,0,4,4,4,Mechanical Design Engineer
+0,1,1,2,1,Mechanical Design Engineer
+2,2,3,0,2,Mechanical Design Engineer
+1,4,2,1,0,Mechanical Design Engineer
+3,3,4,2,2,Mechanical Design Engineer
+4,2,0,4,1,Mechanical Design Engineer
+0,0,1,3,3,Mechanical Design Engineer
+1,2,3,4,5,Product Engineer
+2,2,3,0,2,Product Engineer
+1,4,2,1,0,Product Engineer
+3,3,4,2,2,Product Engineer
+4,2,0,4,1,Product Engineer
+0,0,1,3,3,Product Engineer
+5,5,5,5,5,Product Engineer

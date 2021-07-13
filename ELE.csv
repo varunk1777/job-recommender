@@ -1,0 +1,1056 @@
+jobId,title,genres,DegreeType
+0,Electronics Engineer,MATLAB|Python|VLSI|Digital|Analog,MTech
+1,Electronics Engineer,MATLAB|VLSI|Analog,MTech
+2,Electronics Engineer,VLSI|Python,MTech
+3,Electronics Engineer,VLSI|Analog|Python,MTech
+4,Electronics Engineer,VLSI,BE
+5,Electronics Engineer,Digital|MATLAB,BE
+6,Electronics Engineer,VLSI|Python,MTech
+7,Electronics Engineer,MATLAB|VLSI,MTech
+8,Electronics Engineer,Digital,MTech
+9,Electronics Engineer,Digital|MATLAB,MTech
+10,Electronics Engineer,VLSI|Analog|Python,BE
+11,Electronics Engineer,VLSI|Digital,BE
+12,Electronics Engineer,MATLAB|Python|VLSI,BE
+13,Electronics Engineer,Analog,BE
+14,Electronics Engineer,Digital|MATLAB|Python,BE
+15,Electronics Engineer,Digital|Analog,MTech
+16,Electronics Engineer,Analog|Python,BE
+17,Electronics Engineer,VLSI,BE
+18,Electronics Engineer,VLSI,MTech
+19,Electronics Engineer,Digital|VLSI|Analog,MTech
+20,Electronics Engineer,VLSI|Digital,BE
+21,Electronics Engineer,Digital|Analog|MATLAB,BE
+22,Electronics Engineer,Digital,MTech
+23,Electronics Engineer,Analog|VLSI,BE
+24,Electronics Engineer,Analog|Python,BE
+25,Electronics Engineer,Analog,BE
+26,Electronics Engineer,VLSI|Analog,MTech
+27,Electronics Engineer,Analog|Python,BE
+28,Electronics Engineer,MATLAB|Analog|Analog,MTech
+29,Electronics Engineer,Digital|Analog,MTech
+30,Electronics Engineer,Analog,BE
+31,Electronics Engineer,MATLAB|Analog,BE
+32,Electronics Engineer,MATLAB|Python,BE
+33,Electronics Engineer,VLSI|Analog,MTech
+34,Electronics Engineer,Analog|Python,BE
+35,Electronics Engineer,Digital|Analog,BE
+36,Electronics Engineer,Python|Analog,BE
+37,Electronics Engineer,VLSI|Python,BE
+38,Electronics Engineer,VLSI|Python,MTech
+39,Electronics Engineer,Analog,BE
+40,Electronics Engineer,Analog,MTech
+41,Electronics Engineer,Digital|Analog,BE
+42,Electronics Engineer,Analog,BE
+43,Electronics Engineer,Digital|MATLAB|Analog,MTech
+44,Electronics Engineer,VLSI|Analog,BE
+45,Electronics Engineer,Analog|Python,MTech
+46,Electronics Engineer,Digital|VLSI,BE
+47,Electronics Engineer,VLSI|Analog|Python,BE
+48,Electronics Engineer,Digital,BE
+49,Electronics Engineer,VLSI|Analog|Python,BE
+50,Electronics Engineer,MATLAB|Analog,BE
+51,Electronics Engineer,VLSI|VLSI,BE
+52,Electronics Engineer,Analog,MTech
+53,Electronics Engineer,Analog,MTech
+54,Electronics Engineer,VLSI|Analog|Python,BE
+55,Electronics Engineer,Analog|,MTech
+56,Electronics Engineer,MATLAB|VLSI|Analog,MTech
+57,Electronics Engineer,Analog,BE
+58,Electronics Engineer,Analog,BE
+59,Electronics Engineer,VLSI|Digital,BE
+60,Electronics Engineer,VLSI|Python,BE
+61,Electronics Engineer,VLSI,MTech
+62,Electronics Engineer,Digital|Analog,MTech
+63,Electronics Engineer,Analog,BE
+64,Electronics Engineer,VLSI|Python,MTech
+65,Electronics Engineer,VLSI,BE
+66,Electronics Engineer,Digital|VLSI,MTech
+67,Electronics Engineer,Digital,MTech
+68,Electronics Engineer,VLSI|Analog,BE
+69,Electronics Engineer,Analog,BE
+70,Electronics Engineer,Analog|Python,MTech
+71,Electronics Engineer,Digital|Analog,BE
+72,Electronics Engineer,VLSI,MTech
+73,Electronics Engineer,Digital|VLSI|Analog,BE
+74,Electronics Engineer,Analog,MTech
+75,Electronics Engineer,VLSI|Analog,MTech
+76,Electronics Engineer,Digital|Analog|Python,MTech
+77,Electronics Engineer,VLSI|Analog,MTech
+78,Electronics Engineer,Analog|Python,MTech
+79,Electronics Engineer,VLSI|Analog,BE
+80,Electronics Engineer,Analog|Python,BE
+81,Electronics Engineer,Digital|MATLAB|Analog,BE
+82,Electronics Engineer,VLSI|Python,BE
+83,Electronics Engineer,VLSI,MTech
+84,Electronics Engineer,Digital|,BE
+85,Electronics Engineer,Analog|Digital,MTech
+86,Electronics Engineer,VLSI|Digital|Python,BE
+87,Electronics Engineer,VLSI|Analog|Python,MTech
+88,Electronics Engineer,Digital|MATLAB,MTech
+89,Electronics Engineer,VLSI|Analog,MTech
+90,Electronics Engineer,Digital|Analog,BE
+91,Electronics Engineer,Digital,BE
+92,Electronics Engineer,MATLAB,BE
+93,Electronics Engineer,Analog,MTech
+94,Electronics Engineer,MATLAB|VLSI|Digital|Python,BE
+95,Electronics Engineer,VLSI,PhD
+96,Electronics Engineer,Analog,MTech
+97,Electronics Engineer,VLSI,MTech
+98,Electronics Engineer,Analog|Python,MTech
+99,Electronics Engineer,VLSI|Analog,MTech
+100,Electronics Engineer,MATLAB|VLSI|Digital,MTech
+101,Electronics Engineer,Digital|Analog|Python,MTech
+102,Electronics Engineer,Digital|Analog|,MTech
+103,Electronics Engineer,Digital|MATLAB|VLSI|Digital,BE
+104,Electronics Engineer,Analog|,BE
+105,Electronics Engineer,Analog,MTech
+106,Electronics Engineer,Python,MTech
+107,Electronics Engineer,Digital|Analog,BE
+108,Electronics Engineer,VLSI|Python,BE
+109,Electronics Engineer,VLSI,BE
+110,Electronics Engineer,MATLAB|VLSI|Analog,BE
+111,Electronics Engineer,Analog,BE
+112,Electronics Engineer,VLSI|Python,BE
+113,Electronics Engineer,Analog||Python,BE
+114,Electronics Engineer,Analog,BE
+115,Electronics Engineer,VLSI,BE
+116,Electronics Engineer,MATLAB|VLSI|Analog,BE
+117,Electronics Engineer,Python,BE
+118,Electronics Engineer,Analog|Python,BE
+119,Electronics Engineer,Python|MATLAB,MTech
+120,Electronics Engineer,VLSI|Analog,MTech
+121,Electronics Engineer,MATLAB,BE
+122,Electronics Engineer,VLSI,MTech
+123,Electronics Engineer,Digital,MTech
+124,Electronics Engineer,Python|Digital,BE
+125,Electronics Engineer,Analog,BE
+126,Electronics Engineer,Analog|Python,MTech
+127,Electronics Engineer,VLSI,BE
+128,Electronics Engineer,VLSI,MTech
+129,Electronics Engineer,Digital|VLSI|Analog,MTech
+130,Electronics Engineer,MATLAB|VLSI,MTech
+131,Electronics Engineer,Analog,MTech
+132,Electronics Engineer,Analog,MTech
+133,Electronics Engineer,Digital|Analog,BE
+134,Electronics Engineer,MATLAB|Analog,BE
+135,Electronics Engineer,Digital|Analog|Python,MTech
+136,Electronics Engineer,Analog|Digital,MTech
+137,Electronics Engineer,Digital|MATLAB|VLSI,MTech
+138,Electronics Engineer,Analog,BE
+139,Electronics Engineer,MATLAB|Analog,MTech
+140,Electronics Engineer,VLSI|Analog,MTech
+141,Electronics Engineer,VLSI|,BE
+142,Electronics Engineer,MATLAB|VLSI,BE
+143,Electronics Engineer,Digital|Analog,MTech
+144,Electronics Engineer,Digital|MATLAB|Analog,BE
+145,Electronics Engineer,Analog,MTech
+146,Electronics Engineer,Digital|Python,MTech
+147,Electronics Engineer,Digital|Python|MATLAB,MTech
+148,Electronics Engineer,Digital|VLSI,BE
+149,Electronics Engineer,Digital,BE
+150,Electronics Engineer,VLSI|Digital|Analog,MTech
+151,Electronics Engineer,Digital|Analog|Python,BE
+152,Electronics Engineer,MATLAB|VLSI|Analog,MTech
+153,Electronics Engineer,Digital|MATLAB|Digital|,MTech
+154,Electronics Engineer,VLSI|Analog,MTech
+155,Electronics Engineer,Digital|Analog|,BE
+156,Electronics Engineer,Digital|Analog,BE
+157,Electronics Engineer,VLSI,MTech
+158,Electronics Engineer,Analog,MTech
+159,Electronics Engineer,VLSI,MTech
+160,Electronics Engineer,Digital,BE
+161,Electronics Engineer,VLSI|Analog,BE
+162,Electronics Engineer,Analog|Python,BE
+163,Electronics Engineer,VLSI|Python,BE
+164,Electronics Engineer,Digital|VLSI,BE
+165,Electronics Engineer,Analog|Python,BE
+166,Electronics Engineer,VLSI|Digital,BE
+167,Electronics Engineer,Analog,BE
+168,Electronics Engineer,Digital|VLSI,BE
+169,Electronics Engineer,VLSI|Python,BE
+170,Electronics Engineer,VLSI,BE
+171,Electronics Engineer,Analog|Digital,BE
+172,Electronics Engineer,VLSI|Analog,BE
+173,Electronics Engineer,Python,MTech
+174,Electronics Engineer,Analog|Python,BE
+175,Electronics Engineer,Analog,MTech
+176,Electronics Engineer,VLSI|Analog,BE
+177,Electronics Engineer,VLSI|Analog|Python,BE
+178,Electronics Engineer,Digital|Analog,BE
+179,Electronics Engineer,Digital|MATLAB|Analog|VLSI,MTech
+180,Electronics Engineer,Analog|Digital|Python,MTech
+181,Electronics Engineer,MATLAB,BE
+182,Electronics Engineer,Analog|Digital,BE
+183,Electronics Engineer,Analog|Python,MTech
+184,Electronics Engineer,VLSI,PhD
+185,Electronics Engineer,Digital,BE
+186,Electronics Engineer,VLSI|Analog,BE
+187,Electronics Engineer,Python,BE
+188,Electronics Engineer,Analog|Python,BE
+189,Electronics Engineer,Digital|MATLAB|Analog,MTech
+190,Electronics Engineer,Analog,BE
+191,Electronics Engineer,Digital,BE
+192,Electronics Engineer,Analog,BE
+193,Electronics Engineer,MATLAB|VLSI|Digital,BE
+194,Electronics Engineer,Analog,BE
+195,Electronics Engineer,Analog,BE
+196,Electronics Engineer,Analog|Python,PhD
+197,Electronics Engineer,VLSI,BE
+198,Electronics Engineer,Analog,MTech
+199,Electronics Engineer,VLSI|Analog,MTech
+200,Electronics Engineer,Analog,BE
+201,Electronics Engineer,Digital,BE
+202,Electronics Engineer,Analog|Python,BE
+203,Electronics Engineer,VLSI,MTech
+204,Electronics Engineer,VLSI|Analog|Python,MTech
+205,Electronics Engineer,Analog,BE
+206,Electronics Engineer,Digital,BE
+207,Electronics Engineer,Analog,BE
+208,Electronics Engineer,Analog,BE
+209,Electronics Engineer,MATLAB|VLSI,BE
+210,Electronics Engineer,VLSI|Analog|Python,BE
+211,Electronics Engineer,Analog,BE
+212,Electronics Engineer,VLSI,MTech
+213,Electronics Engineer,VLSI|Analog,MTech
+214,Electronics Engineer,Digital|VLSI|Python,MTech
+215,Electronics Engineer,VLSI|Python,MTech
+216,Electronics Engineer,MATLAB|VLSI,BE
+217,Electronics Engineer,Python|VLSI|Python,BE
+218,Electronics Engineer,Digital|MATLAB,BE
+219,Electronics Engineer,VLSI|Analog,MTech
+220,Electronics Engineer,Analog,BE
+221,Electronics Engineer,VLSI|VLSI|Analog,BE
+222,Electronics Engineer,Python|VLSI,BE
+223,Electronics Engineer,Digital|Analog,BE
+224,Electronics Engineer,Python,MTech
+225,Electronics Engineer,Digital|Analog,BE
+226,Electronics Engineer,VLSI,MTech
+227,Electronics Engineer,Analog|Python,MTech
+228,Electronics Engineer,VLSI|VLSI,BE
+229,Electronics Engineer,Digital,MTech
+230,Electronics Engineer,VLSI|Python,BE
+231,Electronics Engineer,Analog|Digital,BE
+232,Electronics Engineer,Analog,BE
+233,Electronics Engineer,VLSI,BE
+234,Electronics Engineer,VLSI|Analog,BE
+235,Electronics Engineer,MATLAB,BE
+236,Electronics Engineer,MATLAB|VLSI|Analog|Python,BE
+237,Electronics Engineer,Digital|Analog,MTech
+238,Electronics Engineer,Digital|MATLAB|Analog,BE
+239,Electronics Engineer,Analog,MTech
+240,Electronics Engineer,VLSI|Analog,MTech
+241,Electronics Engineer,Analog,BE
+242,Electronics Engineer,Analog,BE
+243,Electronics Engineer,Analog|Python,BE
+244,Electronics Engineer,Analog|Python,BE
+245,Electronics Engineer,VLSI,BE
+246,Electronics Engineer,Digital|Analog,BE
+247,Electronics Engineer,Analog,BE
+248,Electronics Engineer,Analog|Python,BE
+249,Electronics Engineer,Analog,MTech
+250,Electronics Engineer,VLSI|Analog,BE
+251,Electronics Engineer,Analog|Digital|Analog,MTech
+252,Electronics Engineer,VLSI,BE
+253,Electronics Engineer,VLSI,BE
+254,Electronics Engineer,VLSI|Python,BE
+255,Electronics Engineer,Analog,BE
+256,Electronics Engineer,VLSI,BE
+257,Electronics Engineer,Analog,MTech
+258,Electronics Engineer,Analog|,BE
+259,Electronics Engineer,VLSI|Analog|Python,BE
+260,Electronics Engineer,Analog,BE
+261,Electronics Engineer,Digital|Analog,BE
+262,Network Planning Engineer,Analog|Digital,MTech
+263,Network Planning Engineer,VLSI|Python,MTech
+264,Network Planning Engineer,Digital,BE
+265,Network Planning Engineer,VLSI|Python,BE
+266,Network Planning Engineer,Digital|Analog,BE
+267,Network Planning Engineer,Analog,BE
+268,Network Planning Engineer,Digital|Analog|VLSI,MTech
+269,Network Planning Engineer,Digital|Analog,BE
+270,Network Planning Engineer,VLSI|Python,BE
+271,Network Planning Engineer,VLSI|Python,MTech
+272,Network Planning Engineer,VLSI|Digital|Analog,BE
+273,Network Planning Engineer,Analog,MTech
+274,Network Planning Engineer,Analog,MTech
+275,Network Planning Engineer,Analog,BE
+276,Network Planning Engineer,Analog,MTech
+277,Network Planning Engineer,Analog|Python,BE
+278,Network Planning Engineer,Analog|Python,MTech
+279,Network Planning Engineer,Digital|MATLAB|Analog,BE
+280,Network Planning Engineer,VLSI|Analog,PhD
+281,Network Planning Engineer,VLSI,BE
+282,Network Planning Engineer,Analog,MTech
+283,Network Planning Engineer,Analog,BE
+284,Network Planning Engineer,VLSI|Analog,BE
+285,Network Planning Engineer,Analog,MTech
+286,Network Planning Engineer,VLSI,BE
+287,Network Planning Engineer,VLSI,MTech
+288,Network Planning Engineer,Python|VLSI,MTech
+289,Network Planning Engineer,VLSI|Analog,BE
+290,Network Planning Engineer,Digital|Analog|,BE
+291,Network Planning Engineer,Digital|MATLAB|Analog,BE
+292,Network Planning Engineer,VLSI|Analog|Analog,MTech
+293,Network Planning Engineer,Digital|Analog,PhD
+294,Network Planning Engineer,VLSI|Analog,BE
+295,Network Planning Engineer,Digital,BE
+296,Network Planning Engineer,Analog,BE
+297,Network Planning Engineer,VLSI|Analog,BE
+298,Network Planning Engineer,VLSI|Analog,BE
+299,Network Planning Engineer,VLSI,PhD
+300,Network Planning Engineer,Analog,MTech
+301,Network Planning Engineer,Digital|VLSI|Analog,BE
+302,Network Planning Engineer,Digital,BE
+303,Network Planning Engineer,MATLAB|Analog,BE
+304,Network Planning Engineer,Digital|Python,BE
+305,Network Planning Engineer,Analog,BE
+306,Network Planning Engineer,Digital|Analog,BE
+307,Network Planning Engineer,VLSI,BE
+308,Network Planning Engineer,Analog,MTech
+309,Network Planning Engineer,Python|MATLAB,BE
+310,Network Planning Engineer,Analog,PhD
+311,Network Planning Engineer,Analog,BE
+312,Network Planning Engineer,Digital|Analog,BE
+313,Network Planning Engineer,VLSI|Python,BE
+314,Network Planning Engineer,MATLAB|Analog,BE
+315,Network Planning Engineer,Analog,MTech
+316,Network Planning Engineer,VLSI,BE
+317,Network Planning Engineer,VLSI,MTech
+318,Network Planning Engineer,VLSI,MTech
+319,Network Planning Engineer,VLSI|Analog,BE
+320,Network Planning Engineer,Analog,MTech
+321,Network Planning Engineer,Analog|Python,BE
+322,Network Planning Engineer,VLSI,BE
+323,Network Planning Engineer,Digital|MATLAB|Analog,BE
+324,Network Planning Engineer,Analog,BE
+325,Network Planning Engineer,VLSI|Analog|Python,MTech
+326,Network Planning Engineer,VLSI|Analog,BE
+327,Network Planning Engineer,Digital|Analog,BE
+328,Network Planning Engineer,Analog,BE
+329,Network Planning Engineer,VLSI|VLSI|Analog,MTech
+330,Network Planning Engineer,VLSI|Analog|Python,MTech
+331,Network Planning Engineer,VLSI|Python,MTech
+332,Network Planning Engineer,Analog,BE
+333,Network Planning Engineer,Digital|VLSI,BE
+334,Network Planning Engineer,VLSI|Analog|Python,BE
+335,Network Planning Engineer,MATLAB|VLSI|Python,BE
+336,Network Planning Engineer,Python,BE
+337,Network Planning Engineer,Digital|MATLAB|Analog,BE
+338,Network Planning Engineer,Analog,BE
+339,Network Planning Engineer,Analog|Digital,MTech
+340,Network Planning Engineer,Digital|VLSI|Digital|Analog,MTech
+341,Network Planning Engineer,Digital|MATLAB|Analog,BE
+342,Network Planning Engineer,Analog,BE
+343,Network Planning Engineer,Digital|VLSI,BE
+344,Network Planning Engineer,VLSI|Analog,BE
+345,Network Planning Engineer,VLSI|Analog|Python,BE
+346,Network Planning Engineer,Digital,BE
+347,Network Planning Engineer,VLSI|VLSI,BE
+348,Network Planning Engineer,Analog,MTech
+349,Network Planning Engineer,Digital,BE
+350,Network Planning Engineer,Digital|Python,BE
+351,Network Planning Engineer,VLSI|Python,BE
+352,Network Planning Engineer,Digital|Analog,BE
+353,Network Planning Engineer,Digital|MATLAB|VLSI|Python,MTech
+354,Network Planning Engineer,Analog|Python,BE
+355,Network Planning Engineer,Analog|Digital|Python,BE
+356,Network Planning Engineer,MATLAB,BE
+357,Network Planning Engineer,Digital|Analog,BE
+358,Network Planning Engineer,Analog,BE
+359,Network Planning Engineer,Digital|VLSI,MTech
+360,Network Planning Engineer,Analog,MTech
+361,Network Planning Engineer,Analog|Python,BE
+362,Network Planning Engineer,Digital|Analog,BE
+363,Network Planning Engineer,Digital|Analog,BE
+364,Network Planning Engineer,MATLAB|Python,MTech
+365,Network Planning Engineer,Digital|MATLAB|Analog,BE
+366,Network Planning Engineer,VLSI,BE
+367,Network Planning Engineer,VLSI|Digital|Analog,MTech
+368,Network Planning Engineer,Python,BE
+369,Network Planning Engineer,Digital|Analog,BE
+370,Network Planning Engineer,Digital,BE
+371,Network Planning Engineer,Analog,BE
+372,Network Planning Engineer,VLSI|VLSI|Analog,BE
+373,Network Planning Engineer,Analog,BE
+374,Network Planning Engineer,VLSI,BE
+375,Network Planning Engineer,VLSI,MTech
+376,Network Planning Engineer,VLSI|,BE
+377,Network Planning Engineer,MATLAB,MTech
+378,Network Planning Engineer,VLSI|Python,BE
+379,Network Planning Engineer,Analog,BE
+380,Network Planning Engineer,VLSI,PhD
+381,Network Planning Engineer,Digital|VLSI,BE
+382,Network Planning Engineer,MATLAB|VLSI|Analog,BE
+383,Service Engineer,MATLAB|VLSI,MTech
+384,Service Engineer,Digital,MTech
+385,Service Engineer,Analog,BE
+386,Service Engineer,Analog|Python,MTech
+387,Service Engineer,Digital|Analog,BE
+388,Service Engineer,Analog|Python,MTech
+389,Service Engineer,Analog,MTech
+390,Service Engineer,VLSI,MTech
+391,Service Engineer,Digital|Analog,MTech
+392,Service Engineer,MATLAB|VLSI|Digital,BE
+393,Service Engineer,VLSI,MTech
+394,Service Engineer,Digital|MATLAB,BE
+395,Service Engineer,VLSI|Analog,BE
+396,Service Engineer,Analog,BE
+397,Service Engineer,VLSI,BE
+398,Service Engineer,Digital|VLSI|Analog,BE
+399,Service Engineer,Analog,MTech
+400,Service Engineer,VLSI|Python,BE
+401,Service Engineer,VLSI,MTech
+402,Service Engineer,Digital|MATLAB|Analog,BE
+403,Service Engineer,MATLAB|Python,MTech
+404,Service Engineer,VLSI|Python,BE
+405,Service Engineer,VLSI,BE
+406,Service Engineer,Analog|Python,BE
+407,Service Engineer,VLSI|Python,BE
+408,Service Engineer,Analog,BE
+409,Service Engineer,VLSI,BE
+410,Service Engineer,VLSI|Analog,BE
+411,Service Engineer,Analog|Python,MTech
+412,Service Engineer,Analog,BE
+413,Service Engineer,VLSI|Python,MTech
+414,Service Engineer,Analog|,PhD
+415,Service Engineer,MATLAB|VLSI|Analog,MTech
+416,Service Engineer,Digital|Analog,BE
+417,Service Engineer,VLSI|Python,BE
+418,Service Engineer,Analog|MATLAB,BE
+419,Service Engineer,Digital|MATLAB|Digital|Analog|Python,BE
+420,Service Engineer,VLSI,BE
+421,Service Engineer,Analog|Python,BE
+422,Service Engineer,Digital|Analog,MTech
+423,Service Engineer,Digital|MATLAB|Digital,MTech
+424,Service Engineer,Digital|Analog,BE
+425,Service Engineer,Digital|VLSI,BE
+426,Service Engineer,VLSI,BE
+427,Service Engineer,VLSI|Python,PhD
+428,Service Engineer,Analog|Python,MTech
+429,Service Engineer,VLSI,BE
+430,Service Engineer,VLSI,BE
+431,Service Engineer,VLSI|Analog,BE
+432,Service Engineer,VLSI,BE
+433,Service Engineer,Digital,MTech
+434,Service Engineer,Analog,BE
+435,Service Engineer,VLSI|Analog,BE
+436,Service Engineer,Analog,BE
+437,Service Engineer,VLSI|Digital|Analog,PhD
+438,Service Engineer,Digital,BE
+439,Service Engineer,Digital|MATLAB|Analog,BE
+440,Service Engineer,Analog,BE
+441,Service Engineer,Digital|Analog,MTech
+442,Service Engineer,Analog,MTech
+443,Service Engineer,MATLAB|VLSI,MTech
+444,Service Engineer,Digital|MATLAB|VLSI|Analog,MTech
+445,Service Engineer,VLSI,BE
+446,Service Engineer,VLSI|MATLAB,MTech
+447,Service Engineer,Analog|Python,MTech
+448,Service Engineer,VLSI,BE
+449,Service Engineer,Digital,MTech
+450,Service Engineer,Analog,BE
+451,Service Engineer,VLSI,MTech
+452,Service Engineer,Digital|Analog,BE
+453,Service Engineer,Digital|MATLAB,BE
+454,Service Engineer,Analog,BE
+455,Service Engineer,VLSI|Analog|Python,MTech
+456,Service Engineer,VLSI|Python,BE
+457,Service Engineer,Analog|Python,BE
+458,Service Engineer,VLSI|Python,MTech
+459,Service Engineer,VLSI|Analog,BE
+460,Service Engineer,Analog,BE
+461,Service Engineer,Digital|VLSI|Python,BE
+462,Service Engineer,Digital|Analog,BE
+463,Service Engineer,VLSI,BE
+464,Service Engineer,Analog|Python,MTech
+465,Service Engineer,Digital|Analog,BE
+466,Service Engineer,Analog,BE
+467,Service Engineer,Analog|Python,BE
+468,Service Engineer,Analog,MTech
+469,Service Engineer,Digital|Analog,MTech
+470,Service Engineer,Digital|Analog,MTech
+471,Service Engineer,VLSI|Digital|Python,BE
+472,Service Engineer,VLSI,MTech
+473,Service Engineer,Analog|Python,BE
+474,Service Engineer,VLSI|Analog,BE
+475,Service Engineer,Digital|Analog,BE
+476,Service Engineer,VLSI,PhD
+477,Service Engineer,Digital|Digital|Analog,PhD
+478,Service Engineer,VLSI,BE
+479,Service Engineer,Digital,MTech
+480,Service Engineer,Digital|Analog,MTech
+481,Service Engineer,Analog,BE
+482,Service Engineer,Analog,BE
+483,Service Engineer,Analog,BE
+484,Service Engineer,Analog|Digital,MTech
+485,Service Engineer,VLSI|Analog,MTech
+486,Service Engineer,Analog,BE
+487,Service Engineer,VLSI|Analog,BE
+488,Service Engineer,VLSI|Digital,MTech
+489,Service Engineer,Digital|MATLAB|Analog,MTech
+490,Service Engineer,Analog|Python,MTech
+491,Service Engineer,Analog,MTech
+492,Service Engineer,Analog,BE
+493,Service Engineer,Analog,BE
+494,Service Engineer,Analog,BE
+495,Service Engineer,VLSI|Analog|Python,BE
+496,Service Engineer,MATLAB|VLSI,BE
+497,Service Engineer,Digital|Analog,BE
+498,Service Engineer,VLSI|Analog|Python,MTech
+499,Service Engineer,VLSI|Python,MTech
+500,Service Engineer,Digital|MATLAB|Analog,BE
+501,Service Engineer,Digital|MATLAB|VLSI,MTech
+502,Service Engineer,Digital|MATLAB,BE
+503,Service Engineer,Digital,BE
+504,Service Engineer,Analog,MTech
+505,Service Engineer,VLSI|Python,MTech
+506,Service Engineer,Python|VLSI|Analog,MTech
+507,Service Engineer,Digital|MATLAB|VLSI|Python,MTech
+508,Service Engineer,Digital|MATLAB|Analog,BE
+509,Service Engineer,Digital|Analog|,BE
+510,Service Engineer,Digital|,MTech
+511,Service Engineer,Digital|MATLAB|Analog,BE
+512,Service Engineer,Digital|MATLAB|Python|VLSI|Analog,BE
+513,Service Engineer,Analog|,MTech
+514,Service Engineer,VLSI|Analog,BE
+515,Service Engineer,Analog|Python,BE
+516,Service Engineer,Analog|Digital,BE
+517,Service Engineer,VLSI|Python,BE
+518,Service Engineer,VLSI|Analog,BE
+519,Service Engineer,VLSI|Analog,MTech
+520,Service Engineer,VLSI|Analog,BE
+521,Service Engineer,Analog|Python,BE
+522,Service Engineer,Analog,BE
+523,Service Engineer,Analog,BE
+524,Service Engineer,VLSI|Analog,BE
+525,Service Engineer,VLSI|VLSI,MTech
+526,Service Engineer,MATLAB|VLSI|Analog,BE
+527,Service Engineer,Analog,MTech
+528,Service Engineer,Python,BE
+529,Service Engineer,VLSI|Analog,MTech
+530,Service Engineer,VLSI,MTech
+531,Service Engineer,VLSI|VLSI,MTech
+532,Service Engineer,VLSI|Analog|Analog|Python,BE
+533,Service Engineer,MATLAB|Python|VLSI,BE
+534,Service Engineer,Digital|Analog,BE
+535,Service Engineer,MATLAB|Analog|MATLAB,MTech
+536,Service Engineer,Digital|MATLAB|Analog,PhD
+537,Service Engineer,Digital|Python,BE
+538,Service Engineer,Python|VLSI|Analog|Analog,BE
+539,Service Engineer,Python|VLSI|Analog|Python,MTech
+540,Service Engineer,Python|VLSI|Analog,MTech
+541,Service Engineer,VLSI|Python,MTech
+542,Service Engineer,Digital|MATLAB|Analog,MTech
+543,Service Engineer,Digital|VLSI,BE
+544,Service Engineer,Digital|MATLAB|Analog,MTech
+545,Service Engineer,VLSI,MTech
+546,Service Engineer,Analog|Python,BE
+547,Service Engineer,Analog|Digital,BE
+548,Service Engineer,VLSI|Digital|Analog,BE
+549,Service Engineer,MATLAB|VLSI,BE
+550,Service Engineer,Digital|MATLAB|Python|Digital|Analog,BE
+551,Service Engineer,Digital|Digital|Analog,BE
+552,Service Engineer,VLSI,BE
+553,Service Engineer,Analog|Python,BE
+554,Service Engineer,Analog,BE
+555,Service Engineer,VLSI|Analog,MTech
+556,Service Engineer,Python|VLSI,BE
+557,Service Engineer,VLSI|Python,BE
+558,Service Engineer,VLSI,MTech
+559,Service Engineer,Analog,BE
+560,Service Engineer,Analog,BE
+561,Service Engineer,Digital|Analog,BE
+562,Service Engineer,Analog|Python,BE
+563,Service Engineer,MATLAB|Python|VLSI|Analog,MTech
+564,Service Engineer,Analog|,BE
+565,Service Engineer,VLSI,BE
+566,Service Engineer,VLSI,BE
+567,Service Engineer,VLSI|Analog,BE
+568,Service Engineer,VLSI,MTech
+569,Service Engineer,Python,BE
+570,Service Engineer,Analog|,BE
+571,Service Engineer,Analog,BE
+572,Service Engineer,Digital|Digital|Analog|,BE
+573,Service Engineer,Digital|MATLAB||,BE
+574,Service Engineer,VLSI|Analog,MTech
+575,Service Engineer,Analog,BE
+576,Service Engineer,Digital||,BE
+577,Service Engineer,Digital|MATLAB|Analog,MTech
+578,Service Engineer,Analog|Python,MTech
+579,Service Engineer,VLSI,BE
+580,Service Engineer,Digital|Analog|,MTech
+581,Service Engineer,MATLAB|Python|VLSI|Analog|,MTech
+582,Service Engineer,Digital,BE
+583,Service Engineer,VLSI,BE
+584,Service Engineer,VLSI,MTech
+585,Service Engineer,VLSI|Analog|,MTech
+586,Service Engineer,Digital,MTech
+587,Service Engineer,Analog,BE
+588,Service Engineer,Analog,BE
+589,Service Engineer,VLSI|Analog,MTech
+590,Service Engineer,Analog,BE
+591,Service Engineer,MATLAB|Python|VLSI|VLSI|Analog|Analog,MTech
+592,Service Engineer,MATLAB|VLSI|Analog,MTech
+593,Service Engineer,Analog|,MTech
+594,Service Engineer,Analog,BE
+595,Service Engineer,Analog||Python|Analog|,BE
+596,Service Engineer,Digital,BE
+597,Service Engineer,Python,MTech
+598,Service Engineer,Digital|MATLAB|VLSI|,BE
+599,Service Engineer,VLSI|Python,MTech
+600,Service Engineer,Digital|Analog|,MTech
+601,Service Engineer,Digital|Digital|Analog,BE
+602,Service Engineer,|,MTech
+603,Service Engineer,Analog|Python,BE
+604,Service Engineer,Analog,PhD
+605,Service Engineer,VLSI,BE
+606,Service Engineer,Analog,BE
+607,Service Engineer,Analog,BE
+608,Service Engineer,Digital|MATLAB,BE
+609,Service Engineer,VLSI,BE
+610,Service Engineer,Analog,MTech
+611,Service Engineer,Digital|Analog|,BE
+612,Service Engineer,VLSI|Python,MTech
+613,Service Engineer,MATLAB|Python|VLSI|VLSI|,BE
+614,Service Engineer,VLSI,BE
+615,Service Engineer,MATLAB|VLSI,BE
+616,Service Engineer,Digital|Analog|Python|,BE
+617,Service Engineer,Analog||MATLAB,BE
+618,Service Engineer,Analog|Python,BE
+619,Service Engineer,VLSI|Analog|Analog,BE
+620,Service Engineer,VLSI,BE
+621,Service Engineer,MATLAB|Python|VLSI,MTech
+622,Service Engineer,Python,MTech
+623,Service Engineer,Analog|Analog|Digital|,BE
+624,Service Engineer,VLSI,BE
+625,Service Engineer,Analog,BE
+626,Service Engineer,VLSI,BE
+627,Service Engineer,Digital|,BE
+628,Service Engineer,Digital,MTech
+629,Service Engineer,Digital|MATLAB|,BE
+630,Service Engineer,Digital,MTech
+631,Service Engineer,Digital|MATLAB|Python|,MTech
+632,Service Engineer,Digital|Analog,BE
+633,Service Engineer,Python|Analog,BE
+634,Service Engineer,Digital|,BE
+635,Service Engineer,VLSI,BE
+636,Service Engineer,Python|VLSI|VLSI,BE
+637,Service Engineer,VLSI,BE
+638,Service Engineer,Digital|Analog,BE
+639,Service Engineer,VLSI|,MTech
+640,Service Engineer,VLSI|Analog|Python,BE
+641,Service Engineer,VLSI|Analog,BE
+642,Service Engineer,Python,PhD
+643,Service Engineer,Analog,BE
+644,Service Engineer,Python,BE
+645,Service Engineer,Analog,MTech
+646,Service Engineer,Digital|MATLAB,MTech
+647,Service Engineer,VLSI|Digital,BE
+648,Service Engineer,Analog|Python,MTech
+649,Service Engineer,VLSI|Analog,BE
+650,Service Engineer,Analog,MTech
+651,Service Engineer,VLSI|Analog,PhD
+652,Service Engineer,VLSI|Analog,MTech
+653,Service Engineer,MATLAB,BE
+654,Service Engineer,VLSI|Digital|Analog,MTech
+655,Service Engineer,Analog|Python,MTech
+656,Service Engineer,Digital|MATLAB|Analog,MTech
+657,Service Engineer,Analog,MTech
+658,Service Engineer,Analog|,BE
+659,Service Engineer,Python|VLSI|Analog||Python,PhD
+660,Service Engineer,VLSI|,BE
+661,Service Engineer,VLSI,BE
+662,Service Engineer,Digital|Analog|,MTech
+663,Service Engineer,Python,MTech
+664,Service Engineer,VLSI|Analog|Python|Analog,BE
+665,Service Engineer,Python,BE
+666,Service Engineer,Digital|MATLAB|Analog|,BE
+667,Service Engineer,VLSI|Digital|,BE
+668,Service Engineer,Analog||MATLAB,MTech
+669,Service Engineer,VLSI|VLSI,PhD
+670,Service Engineer,Analog|Python,BE
+671,Service Engineer,VLSI|Analog|Python,MTech
+672,Service Engineer,VLSI|Python,BE
+673,Service Engineer,Analog|,MTech
+674,Service Engineer,Digital|Analog,BE
+675,Service Engineer,VLSI|Python,MTech
+676,Service Engineer,MATLAB|VLSI,BE
+677,Service Engineer,Digital|MATLAB,MTech
+678,Service Engineer,VLSI|VLSI|Analog,BE
+679,Service Engineer,VLSI,MTech
+680,Service Engineer,Analog,MTech
+681,Service Engineer,VLSI,MTech
+682,Service Engineer,Analog|,BE
+683,Service Engineer,Analog,MTech
+684,Service Engineer,MATLAB|VLSI,MTech
+685,Service Engineer,VLSI|Analog|,MTech
+686,Service Engineer,VLSI,MTech
+687,Service Engineer,Digital|,BE
+688,Service Engineer,VLSI,BE
+689,Service Engineer,VLSI,BE
+690,Service Engineer,Analog,MTech
+691,Service Engineer,Digital|MATLAB|,BE
+692,Service Engineer,VLSI|VLSI|Analog,MTech
+693,Service Engineer,VLSI|Analog|Python,BE
+694,Service Engineer,Digital|,MTech
+695,Service Engineer,VLSI|VLSI,MTech
+696,Network Planning Engineer,Digital,BE
+697,Network Planning Engineer,VLSI|Digital,BE
+698,Network Planning Engineer,Analog,BE
+699,Network Planning Engineer,Digital|MATLAB|Analog|,PhD
+700,Network Planning Engineer,Digital|Analog,BE
+701,Network Planning Engineer,Analog,MTech
+702,Network Planning Engineer,VLSI|Analog|Python,BE
+703,Network Planning Engineer,Digital|Analog,BE
+704,Network Planning Engineer,VLSI,MTech
+705,Network Planning Engineer,Digital|VLSI|Digital|,BE
+706,Network Planning Engineer,Analog,MTech
+707,Network Planning Engineer,Analog,BE
+708,Network Planning Engineer,Digital|Analog|Python|,MTech
+709,Network Planning Engineer,Digital|Analog||,MTech
+710,Network Planning Engineer,VLSI,MTech
+711,Network Planning Engineer,Digital|Digital|Analog,MTech
+712,Network Planning Engineer,Digital|VLSI|Digital|,MTech
+713,Network Planning Engineer,Digital|,BE
+714,Network Planning Engineer,Analog|,BE
+715,Network Planning Engineer,VLSI|VLSI,MTech
+716,Network Planning Engineer,Analog|,BE
+717,Network Planning Engineer,VLSI|Analog|Analog,BE
+718,Network Planning Engineer,Digital|VLSI|Digital,MTech
+719,Network Planning Engineer,MATLAB|Python|VLSI|,BE
+720,Network Planning Engineer,Digital|,BE
+721,Network Planning Engineer,VLSI|Analog|Python,BE
+722,Network Planning Engineer,Analog,BE
+723,Network Planning Engineer,Analog,MTech
+724,Network Planning Engineer,MATLAB|Analog|Python|,MTech
+725,Network Planning Engineer,VLSI|Analog|Python,BE
+726,Network Planning Engineer,VLSI||Python,MTech
+727,Network Planning Engineer,|Python,BE
+728,Network Planning Engineer,VLSI|,BE
+729,Network Planning Engineer,Analog|Python,BE
+730,Network Planning Engineer,Analog||Python|,MTech
+731,Network Planning Engineer,|,MTech
+732,Network Planning Engineer,VLSI|Python,BE
+733,Network Planning Engineer,Analog|,BE
+734,Network Planning Engineer,VLSI|Python,BE
+735,Network Planning Engineer,Digital|MATLAB|Python,BE
+736,Network Planning Engineer,VLSI|Analog|Python,MTech
+737,Network Planning Engineer,VLSI|Digital,BE
+738,Network Planning Engineer,VLSI|Digital|Python,MTech
+739,Network Planning Engineer,Analog|Python,BE
+740,Network Planning Engineer,Digital,BE
+741,Network Planning Engineer,VLSI|Analog|Python,BE
+742,Network Planning Engineer,VLSI|Python,BE
+743,Network Planning Engineer,VLSI|Analog|Python,BE
+744,Network Planning Engineer,VLSI|Analog,BE
+745,Network Planning Engineer,MATLAB,BE
+746,Network Planning Engineer,MATLAB|VLSI|Analog,BE
+747,Network Planning Engineer,Analog|Python,BE
+748,Network Planning Engineer,VLSI,BE
+749,Network Planning Engineer,Analog|Python,BE
+750,Network Planning Engineer,Analog,PhD
+751,Network Planning Engineer,MATLAB|Analog|Analog,BE
+752,Network Planning Engineer,MATLAB|Python,BE
+753,Network Planning Engineer,Analog,MTech
+754,Network Planning Engineer,VLSI,MTech
+755,Network Planning Engineer,Analog|Python,MTech
+756,Electronics Design Engineer,Analog,BE
+757,Electronics Design Engineer,Python,BE
+758,Electronics Design Engineer,Digital|Python,BE
+759,Electronics Design Engineer,Analog|Python,BE
+760,Electronics Design Engineer,Digital|Python,MTech
+761,Electronics Design Engineer,VLSI,BE
+762,Electronics Design Engineer,VLSI,BE
+763,Electronics Design Engineer,VLSI|Python,BE
+764,Electronics Design Engineer,VLSI|Python,BE
+765,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+766,Electronics Design Engineer,Digital|MATLAB|Python,BE
+767,Electronics Design Engineer,MATLAB,BE
+768,Electronics Design Engineer,Digital,BE
+769,Electronics Design Engineer,Analog|Analog|Python,BE
+770,Electronics Design Engineer,Analog,MTech
+771,Electronics Design Engineer,VLSI|Python,MTech
+772,Electronics Design Engineer,VLSI|Analog,BE
+773,Electronics Design Engineer,VLSI|Python,BE
+774,Electronics Design Engineer,Analog|Python|MATLAB,MTech
+775,Electronics Design Engineer,Analog,MTech
+776,Electronics Design Engineer,VLSI|Digital,BE
+777,Electronics Design Engineer,VLSI|Python,BE
+778,Electronics Design Engineer,MATLAB|VLSI,BE
+779,Electronics Design Engineer,Analog|Analog|Python,MTech
+780,Electronics Design Engineer,Analog,MTech
+781,Electronics Design Engineer,VLSI|Python,BE
+782,Electronics Design Engineer,Analog|Python,MTech
+783,Electronics Design Engineer,Analog,PhD
+784,Electronics Design Engineer,Analog,MTech
+785,Electronics Design Engineer,Digital|Analog,MTech
+786,Electronics Design Engineer,Analog,MTech
+787,Electronics Design Engineer,Digital|MATLAB|Analog,MTech
+788,Electronics Design Engineer,Python|MATLAB,MTech
+789,Electronics Design Engineer,Analog,BE
+790,Electronics Design Engineer,MATLAB,MTech
+791,Electronics Design Engineer,Digital|Analog|,BE
+792,Electronics Design Engineer,MATLAB|VLSI|Python,BE
+793,Electronics Design Engineer,MATLAB|VLSI|Digital|Analog|Python,BE
+794,Electronics Design Engineer,Analog,MTech
+795,Electronics Design Engineer,VLSI|Analog,BE
+796,Electronics Design Engineer,Analog|Python,MTech
+797,Electronics Design Engineer,VLSI|,MTech
+798,Electronics Design Engineer,Python|,BE
+799,Electronics Design Engineer,Analog,BE
+800,Electronics Design Engineer,Analog,BE
+801,Electronics Design Engineer,VLSI|Analog,BE
+802,Electronics Design Engineer,MATLAB|VLSI,BE
+803,Electronics Design Engineer,Analog|Python,BE
+804,Electronics Design Engineer,VLSI|Analog,MTech
+805,Electronics Design Engineer,Analog,MTech
+806,Electronics Design Engineer,Digital|MATLAB,BE
+807,Electronics Design Engineer,Analog,MTech
+808,Electronics Design Engineer,Digital,BE
+809,Electronics Design Engineer,Analog,BE
+810,Electronics Design Engineer,VLSI|Analog,BE
+811,Electronics Design Engineer,Digital|Digital|Analog|,BE
+812,Electronics Design Engineer,Analog|,BE
+813,Electronics Design Engineer,Digital|Digital,BE
+814,Electronics Design Engineer,Digital|,MTech
+815,Electronics Design Engineer,Digital,BE
+816,Electronics Design Engineer,VLSI|Python,BE
+817,Electronics Design Engineer,Analog|,BE
+818,Electronics Design Engineer,Digital|,BE
+819,Electronics Design Engineer,VLSI|VLSI,BE
+820,Electronics Design Engineer,Analog,BE
+821,Electronics Design Engineer,VLSI|VLSI|MATLAB,BE
+822,Electronics Design Engineer,MATLAB|MATLAB,MTech
+823,Electronics Design Engineer,MATLAB|VLSI|Analog,BE
+824,Electronics Design Engineer,VLSI|VLSI,BE
+825,Electronics Design Engineer,MATLAB|VLSI|VLSI,BE
+826,Electronics Design Engineer,VLSI|Analog,MTech
+827,Electronics Design Engineer,VLSI|VLSI|Python,MTech
+828,Electronics Design Engineer,VLSI|VLSI|Analog,BE
+829,Electronics Design Engineer,MATLAB|VLSI|Analog,BE
+830,Electronics Design Engineer,VLSI|VLSI,MTech
+831,Electronics Design Engineer,MATLAB|VLSI,BE
+832,Electronics Design Engineer,VLSI|VLSI|,MTech
+833,Electronics Design Engineer,MATLAB|Analog|Analog,MTech
+834,Electronics Design Engineer,VLSI,BE
+835,Electronics Design Engineer,VLSI|VLSI,MTech
+836,Electronics Design Engineer,Python|VLSI|Analog,BE
+837,Electronics Design Engineer,Python|VLSI,BE
+838,Electronics Design Engineer,Python|VLSI,BE
+839,Electronics Design Engineer,Python|VLSI|Analog,MTech
+840,Electronics Design Engineer,VLSI|Analog,BE
+841,Electronics Design Engineer,MATLAB|Analog,BE
+842,Electronics Design Engineer,VLSI|VLSI|Analog,BE
+843,Electronics Design Engineer,Python|VLSI|Analog,BE
+844,Electronics Design Engineer,MATLAB|Python|VLSI,BE
+845,Electronics Design Engineer,MATLAB|VLSI,MTech
+846,Electronics Design Engineer,MATLAB|Python|VLSI|Analog,BE
+847,Electronics Design Engineer,Python|VLSI|Analog,BE
+848,Electronics Design Engineer,VLSI|Digital|Analog,MTech
+849,Electronics Design Engineer,Python,BE
+850,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+851,Electronics Design Engineer,Digital|MATLAB|Analog,PhD
+852,Electronics Design Engineer,Analog,BE
+853,Electronics Design Engineer,Analog,MTech
+854,Electronics Design Engineer,Analog,MTech
+855,Electronics Design Engineer,VLSI|Analog,MTech
+856,Electronics Design Engineer,Analog|Python,BE
+857,Electronics Design Engineer,Analog,PhD
+858,Electronics Design Engineer,VLSI|Analog,MTech
+859,Electronics Design Engineer,Analog|Python,MTech
+860,Electronics Design Engineer,Digital|Analog,BE
+861,Electronics Design Engineer,Digital|MATLAB,MTech
+862,Electronics Design Engineer,Python|Analog,BE
+863,Electronics Design Engineer,Analog,BE
+864,Electronics Design Engineer,Analog,MTech
+865,Electronics Design Engineer,Digital|MATLAB,BE
+866,Electronics Design Engineer,Analog,BE
+867,Electronics Design Engineer,VLSI|Python,MTech
+868,Electronics Design Engineer,Analog,BE
+869,Electronics Design Engineer,Analog|Python,BE
+870,Electronics Design Engineer,VLSI|Analog,BE
+871,Electronics Design Engineer,MATLAB|Python,MTech
+872,Electronics Design Engineer,Python|VLSI|Analog,BE
+873,Electronics Design Engineer,VLSI|Python,MTech
+874,Electronics Design Engineer,VLSI|Python,BE
+875,Electronics Design Engineer,Digital,BE
+876,Electronics Design Engineer,Digital|MATLAB,MTech
+877,Electronics Design Engineer,MATLAB,PhD
+878,Electronics Design Engineer,VLSI|Analog,BE
+879,Electronics Design Engineer,Analog|Digital,BE
+880,Electronics Design Engineer,VLSI|Analog,BE
+881,Electronics Design Engineer,VLSI|,BE
+882,Electronics Design Engineer,VLSI|Digital,MTech
+883,Electronics Design Engineer,VLSI,BE
+884,Electronics Design Engineer,VLSI|Python,MTech
+885,Electronics Design Engineer,Analog,BE
+886,Electronics Design Engineer,VLSI|,MTech
+887,Electronics Design Engineer,Digital|Analog,BE
+888,Electronics Design Engineer,MATLAB|Analog,BE
+889,Electronics Design Engineer,Digital,BE
+890,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+891,Electronics Design Engineer,Analog|Python,BE
+892,Electronics Design Engineer,Digital,BE
+893,Electronics Design Engineer,Analog,MTech
+894,Electronics Design Engineer,VLSI,BE
+895,Electronics Design Engineer,Digital,BE
+896,Electronics Design Engineer,Analog,MTech
+897,Electronics Design Engineer,Analog|Python,MTech
+898,Electronics Design Engineer,Analog,BE
+899,Electronics Design Engineer,Analog,BE
+900,Electronics Design Engineer,VLSI|Analog,BE
+901,Electronics Design Engineer,VLSI,BE
+902,Electronics Design Engineer,VLSI|Analog,BE
+903,Electronics Design Engineer,Digital|Analog|Python,MTech
+904,Electronics Design Engineer,Digital|Python,BE
+905,Electronics Design Engineer,Analog,MTech
+906,Electronics Design Engineer,Analog,MTech
+907,Electronics Design Engineer,Digital,MTech
+908,Electronics Design Engineer,VLSI,BE
+909,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+910,Electronics Design Engineer,Digital|VLSI|Analog,MTech
+911,Electronics Design Engineer,VLSI,BE
+912,Electronics Design Engineer,Digital|Analog,BE
+913,Electronics Design Engineer,Analog,BE
+914,Electronics Design Engineer,Analog,MTech
+915,Electronics Design Engineer,Analog,BE
+916,Electronics Design Engineer,VLSI|Analog,MTech
+917,Electronics Design Engineer,Digital|MATLAB|Analog,MTech
+918,Electronics Design Engineer,Analog,BE
+919,Electronics Design Engineer,VLSI|Digital,BE
+920,Electronics Design Engineer,VLSI|Analog,BE
+921,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+922,Electronics Design Engineer,Digital,MTech
+923,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+924,Electronics Design Engineer,Digital,BE
+925,Electronics Design Engineer,Analog,BE
+926,Electronics Design Engineer,Analog,MTech
+927,Electronics Design Engineer,VLSI,BE
+928,Electronics Design Engineer,MATLAB|VLSI|Analog,BE
+929,Electronics Design Engineer,VLSI,BE
+930,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+931,Electronics Design Engineer,Python|VLSI|Digital,BE
+932,Electronics Design Engineer,Analog,MTech
+933,Electronics Design Engineer,Python|VLSI,BE
+934,Electronics Design Engineer,Digital,MTech
+935,Electronics Design Engineer,Digital|MATLAB|Analog,BE
+936,Electronics Design Engineer,Analog,MTech
+937,Electronics Design Engineer,Analog,MTech
+938,Electronics Design Engineer,VLSI|Analog,MTech
+939,Electronics Design Engineer,Analog,BE
+940,Electronics Design Engineer,VLSI,BE
+941,Electronics Design Engineer,Digital|MATLAB|Digital,MTech
+942,Electronics Design Engineer,Python,BE
+943,Electronics Design Engineer,VLSI,BE
+944,Electronics Design Engineer,Analog,BE
+945,Electronics Design Engineer,VLSI|Analog,BE
+946,Electronics Design Engineer,VLSI|Analog|Python,BE
+947,Electronics Design Engineer,Analog|Analog|Python,BE
+948,Electronics Design Engineer,Analog|Python,MTech
+949,Electronics Design Engineer,Analog|,MTech
+950,Electronics Design Engineer,Digital|Analog,BE
+951,Electronics Design Engineer,VLSI,BE
+952,Electronics Design Engineer,MATLAB,BE
+953,Electronics Design Engineer,Analog|Python,MTech
+954,Electronics Design Engineer,VLSI|Analog,MTech
+955,Electronics Design Engineer,Analog,BE
+956,Electronics Design Engineer,Analog,MTech
+957,Electronics Design Engineer,Analog,MTech
+958,Electronics Design Engineer,VLSI|Python,MTech
+959,Electronics Design Engineer,Python,MTech
+960,Electronics Design Engineer,Digital|Analog|Python,BE
+961,Electronics Design Engineer,Python|,BE
+962,Electronics Design Engineer,Python,MTech
+963,Electronics Design Engineer,Analog,BE
+964,Electronics Design Engineer,VLSI,PhD
+965,Electronics Design Engineer,Digital|MATLAB|Analog,MTech
+966,Electronics Design Engineer,Digital|MATLAB|VLSI|Analog|Python,BE
+967,Electronics Design Engineer,Digital|MATLAB,BE
+968,Electronics Design Engineer,Analog|Analog,MTech
+969,Electronics Design Engineer,Digital|MATLAB|Digital|Analog,MTech
+970,Electronics Design Engineer,Digital|MATLAB,BE
+971,Electronics Design Engineer,VLSI,BE
+972,Electronics Design Engineer,Analog,BE
+973,Electronics Design Engineer,MATLAB|Analog,BE
+974,Electronics Design Engineer,Digital|Analog|,BE
+975,Electronics Design Engineer,Analog,MTech
+976,Electronics Design Engineer,Digital|Analog,BE
+977,Electronics Design Engineer,Digital|Analog,BE
+978,Electronics Design Engineer,Digital|MATLAB|Analog,MTech
+979,Electronics Design Engineer,Analog|Python,BE
+980,Electronics Design Engineer,Digital|VLSI,BE
+981,Electronics Design Engineer,Digital|Analog,MTech
+982,Electronics Design Engineer,Digital|Analog,BE
+983,Electronics Design Engineer,Digital|MATLAB|VLSI|Analog,MTech
+984,Electronics Design Engineer,MATLAB|Analog|Python,BE
+985,Electronics Design Engineer,Analog,BE
+986,Electronics Design Engineer,Digital|Digital|Analog,BE
+987,Electronics Design Engineer,Digital|VLSI,MTech
+988,Electronics Design Engineer,Digital|MATLAB|VLSI|Analog,MTech
+989,Electronics Design Engineer,Digital|Analog,BE
+990,Electronics Design Engineer,Analog,BE
+991,Electronics Design Engineer,MATLAB|Python|VLSI|Digital,BE
+992,Electronics Design Engineer,Digital|Analog|Python,BE
+993,Electronics Design Engineer,Analog,BE
+994,Electronics Design Engineer,Analog|Python,BE
+995,Electronics Design Engineer,Digital|Analog,BE
+996,Electronics Design Engineer,Analog,PhD
+997,Electronics Design Engineer,VLSI|Python,PhD
+998,Electronics Design Engineer,Analog,BE
+999,Electronics Design Engineer,Analog,BE
+1000,Electronics Design Engineer,MATLAB|Python|VLSI,BE
+1001,Desktop Support Engineer,Digital|Analog|,BE
+1002,Desktop Support Engineer,Analog,MTech
+1003,Desktop Support Engineer,Digital|Analog,BE
+1004,Desktop Support Engineer,Digital|Analog,BE
+1005,Desktop Support Engineer,Digital|MATLAB|Analog,MTech
+1006,Desktop Support Engineer,Analog|Python,BE
+1007,Desktop Support Engineer,Digital|VLSI,BE
+1008,Desktop Support Engineer,Digital|Analog,MTech
+1009,Desktop Support Engineer,Digital|Analog,BE
+1010,Desktop Support Engineer,Digital|MATLAB|VLSI|Analog,MTech
+1011,Desktop Support Engineer,MATLAB|Analog|Python,BE
+1012,Desktop Support Engineer,Analog,BE
+1013,Desktop Support Engineer,Digital|Digital|Analog,BE
+1014,Desktop Support Engineer,Digital|VLSI,MTech
+1015,Desktop Support Engineer,Digital|MATLAB|VLSI|Analog,MTech
+1016,Desktop Support Engineer,Digital|Analog,BE
+1017,Desktop Support Engineer,Analog,BE
+1018,Desktop Support Engineer,MATLAB|Python|VLSI|Digital,BE
+1019,Desktop Support Engineer,Digital|Analog|Python,BE
+1020,Desktop Support Engineer,Analog,BE
+1021,Desktop Support Engineer,Analog|Python,BE
+1022,Desktop Support Engineer,Digital|Analog,BE
+1023,Desktop Support Engineer,Analog,PhD
+1024,Desktop Support Engineer,VLSI|Python,PhD
+1025,Desktop Support Engineer,Analog,BE
+1026,Desktop Support Engineer,Analog,BE
+1027,Desktop Support Engineer,MATLAB|Python|VLSI,BE
+1028,Desktop Support Engineer,Digital|MATLAB|Analog,MTech
+1029,Desktop Support Engineer,Digital|MATLAB|VLSI|Analog|Python,BE
+1030,Desktop Support Engineer,Digital|MATLAB,BE
+1031,Desktop Support Engineer,Analog|Analog,BE
+1032,Desktop Support Engineer,Digital|MATLAB|Digital|Analog,BE
+1033,Desktop Support Engineer,Digital|MATLAB,BE
+1034,Control Systems Engineer,Analog,BE
+1035,Control Systems Engineer,VLSI|Python,PhD
+1036,Control Systems Engineer,Analog,PhD
+1037,Control Systems Engineer,Analog,BE
+1038,Control Systems Engineer,MATLAB|Python|VLSI,BE
+1039,Control Systems Engineer,Digital|MATLAB|Analog,BE
+1040,Control Systems Engineer,Digital|MATLAB|VLSI|Analog|Python,MTech
+1041,Control Systems Engineer,Digital|MATLAB,BE
+1042,Control Systems Engineer,Analog|Analog,BE
+1043,Control Systems Engineer,Digital|MATLAB|Digital|Analog,BE
+1044,Power Electronics Engineer,Digital|Analog|Python,BE
+1045,Power Electronics Engineer,Analog,BE
+1046,Power Electronics Engineer,Analog|Python,BE
+1047,Power Electronics Engineer,Digital|Analog,BE
+1048,Power Electronics Engineer,Analog,PhD
+1049,Power Electronics Engineer,VLSI|Python,PhD
+1050,Power Electronics Engineer,Analog,BE
+1051,Power Electronics Engineer,Analog,BE
+1052,Power Electronics Engineer,MATLAB|Python|VLSI,BE
+1053,Power Electronics Engineer,Digital|Analog|,BE
+1054,,,
